@@ -15,7 +15,14 @@ Methode
 ~~~~~~~
 
 Im Wesentlichen zeichne ich Searles Verständnis von Intentionalität in kollektiver Form nach, so präzise wie möglich.
-Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweise
+Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweise.
+
+. Überblick geben über Intentionalität
+. Fokus auf Intentionalität als maßgebliches Verursachen des Handelns ("Handlungsplanung")
+  * Die _Wir-Einstellung_ der Individuen fast *Searle* werden als handlungsverursachende und handlungssteuernde Absicht auf.
+  * So auch bei Tuomela und Miller
+. Es geht also um alle bewussten Zustände, d.h. um Zustände, die dem Individuum grundsätzlich bewusst zugänglich sind.
+
 
 **** 
 * Wichtig dabei, dass Searle auch nur einen distinktiv engen Rahmen betrachtet.
@@ -31,4 +38,4 @@ Kapitel
 ~~~
 
 Internalismus und Externalismus
-Wissensbegriff/ Warheitstheorie gemäß Korrespondenztheorie und Konsistenztheorie []
+Wissensbegriff/ Warheitstheorie gemäß Korrespondenztheorie und Konsistenztheorie
