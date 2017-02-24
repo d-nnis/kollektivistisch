@@ -1,0 +1,34 @@
+
+
+Internalistische Kollektivität
+==============================
+:Author:    D-nnis
+:Email:     
+:Date:      2017-02-24
+:Revision:  v0.1
+
+
+Einleitung
+----------
+
+Methode
+~~~~~~~
+
+Im Wesentlichen zeichne ich Searles Verständnis von Intentionalität in kollektiver Form nach, so präzise wie möglich.
+Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweise
+
+**** 
+* Wichtig dabei, dass Searle auch nur einen distinktiv engen Rahmen betrachtet.
+** Dies führt unter Umständen zu gewissen Problemen bei der Anwendbarkeit seiner Theorie
+** Siehe dazu auch die Überlegungen von Derrida in Auseinandersetzung mit Searle.
+** Es führt immer dann zu einem Problem, wenn das Phänomen durch seine Größe (holistisch) eine besondere Bedeutung hat, die durch den kleinen Bereich gar nicht zur Tragweite kommt.footnote:[Siehe auch die Notizen auf https://web6.codeprobe.de/wiki/index.php?title=Searle#Wiki.2F_Generelles]
+****
+
+Searle nach der Eigenwahrnehmung. Und Searle nach der Außenwahrnehmung footnote:[Dies im Besonderen durch Schmid und Schweikard]
+
+
+Kapitel
+~~~
+
+Internalismus und Externalismus
+Wissensbegriff/ Warheitstheorie gemäß Korrespondenztheorie und Konsistenztheorie []

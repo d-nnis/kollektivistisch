@@ -1,0 +1,5 @@
+
+== Magister über Kollektivität
+Writing my magister thesis on a git repo using AsciiDoc as markup syntax
+
+* Let's get to it!
