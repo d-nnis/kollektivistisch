@@ -23,6 +23,17 @@ Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweis
   * So auch bei Tuomela und Miller
 . Es geht also um alle bewussten Zustände, d.h. um Zustände, die dem Individuum grundsätzlich bewusst zugänglich sind.
 
+Als nächstes
+~~~~~~~~~~~~
+* Zitatstellen
+** Searle: Argumentation xy geführt, um eigentlich einem anderen Problem aus dem Wege zu gehen
+** Searle: Die Begriffe der individualistischen Intentionalität können _mit Anpassungen_ auf die kollektivistische Intentionalität angewendet werden.
+*** SchmiSchwei bewerten dies anders. -> Wo?
+** SchmiSchwei: Verwechselung von Typen und Token. -> Wo? Wer?
+* Im Fokus
+** Searles Beitrag
+** Wahrnehmung von SchmiSchwei von Searles Konzept
+
 
 **** 
 * Wichtig dabei, dass Searle auch nur einen distinktiv engen Rahmen betrachtet.
