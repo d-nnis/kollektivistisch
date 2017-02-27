@@ -1,0 +1,24 @@
+
+
+== Instrumente
+=== Vim
+* Abkürzungen
+** fn: --> footnote
+* Wörterbuch/ Rechtschreibung überprüfen
+
+
+=== AsciiDoc
+* Syntax Highlighter _[source,perl]_
+** http://asciidoc.org/index.html#_source_code_highlighter
+** http://asciidoc.org/userguide.html#_shipping_stand_alone_asciidoc_source
+** http://pygments.org/docs/lexers/#lexers-for-configuration-file-formats[List(?)]
+* Define custom styles
+** like a certain style type, via _CSS_ i guess
+** Define at the beginning of writing
+** Re-define at the end to apply specific, distinctive style
+* Combine fragments
+** You've got five chapters
+** Combine those in a meta-asciidoc-document via some sort of reference
+** Maybe even pick just certain sub-chapters of a document
+
+
