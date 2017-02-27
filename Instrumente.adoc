@@ -8,10 +8,7 @@
 
 
 === AsciiDoc
-* Syntax Highlighter _[source,perl]_
-** http://asciidoc.org/index.html#_source_code_highlighter
-** http://asciidoc.org/userguide.html#_shipping_stand_alone_asciidoc_source
-** http://pygments.org/docs/lexers/#lexers-for-configuration-file-formats[List(?)]
+* asciidoc -a theme=file.css
 * Define custom styles
 ** like a certain style type, via _CSS_ i guess
 ** Define at the beginning of writing
