@@ -5,9 +5,15 @@
 * Abkürzungen
 ** fn: --> footnote
 * Wörterbuch/ Rechtschreibung überprüfen
-
+* Abbrevs
 
 === AsciiDoc
+* Escape
+** single specials
+*** add \ in front of string
+** whole line with
+*** triple + enclosed
+*** backticks (different font?)
 * asciidoc -a theme=file.css
 * Define custom styles
 ** like a certain style type, via _CSS_ i guess
@@ -16,6 +22,7 @@
 * Combine fragments
 ** You've got five chapters
 ** Combine those in a meta-asciidoc-document via some sort of reference
+*** `include::footer.adoc`
 ** Maybe even pick just certain sub-chapters of a document
 
 
