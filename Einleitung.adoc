@@ -21,13 +21,6 @@ Internalistische Kollektivität
 
 ** Gegenpositionen
 
-* Was noch?
-** Ziel haben
-*** Das selbe machen - vielmehr _wollen_
-*** Unter welchen Bedingungen geht das überhaupt?
-
-== Figuren in der Arbeit
-=== Rationalistisches Modell
 
 * Geht etwas verloren durch die Eingrenzung auf die Methodik und die Objekte eines rationalistischen Modells?
 * Bewusstwerden: Was kann nicht gesagt werden?
@@ -89,5 +82,7 @@ Die Anwendung dieser Methode auf die Autoren hat über die Kapitel der Arbeit hi
 * Zwei Beispiele dazu, wie dies methodisch gmeint ist:
 ** Searle: ``Meines Erachtens waren die verschiedenen Formen des Behaviourismus und Funktionalismus _niemals durch eine unabhängige Untersuchung der Fakten motiviert_, sondern durch die _Befürchtung_, wir wären dem Dualismus und einem anscheinend unlösbaren Körper/ Geist-Problem _ausgeliefert_, solange sich kein Weg fände, geistige Phänomene (in ihrem naiven Verständnis) zu eliminieren.'' footnote:[Intentionalität, Suhrkamp, S. 11] (Hervorhebung von mir)
 ** Searle scheint entweder mit seinen wissenschaftlichen Arbeiten über Dekaden hinweg eine monumentale, in sich stimmige Philosophie erarbeitet zu haben, oder ``biegt'' - scheinbar nur auf Kosten von Kleinigkeiten - seine Überlegungen so zurecht, dass an entscheidenden Stellen ein Fehlurteil entsteht.footnote:[Dies ist mir an mehreren kleinen Stellen aufgefallen. Klar ist, dass ein so geartetes Fehlurteil natürlich argumentativ hergeleitet werden muss.]
+
+
 
 
