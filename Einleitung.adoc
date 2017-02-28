@@ -7,28 +7,11 @@ Internalistische Kollektivität
 :Date:      2017-02-24
 :Revision:  v0.1
 
-
-Einleitung
-----------
-
-Methode
-~~~~~~~
-
-Im Wesentlichen zeichne ich Searles Verständnis von Intentionalität in kollektiver Form nach, so präzise wie möglich.
-Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweise.
-
-. Überblick geben über Intentionalität
-. Fokus auf Intentionalität als maßgebliches Verursachen des Handelns ("Handlungsplanung")
-  * Die _Wir-Einstellung_ der Individuen fasst *Searle* als handlungsverursachende und handlungssteuernde Absicht auf.
-  * So auch bei Tuomela und Miller
-. Es geht also um alle bewussten Zustände, d.h. um Zustände, die dem Individuum grundsätzlich bewusst zugänglich sind.
-
-=== Fleisch
+== Inhaltliche Aspekte
 * Intentionalität als Bezug des Individuums zur Welt.
 * Bezug zu anderen Individuen.
 ** Was sind andere Individuen für die Betrachtung des Individuums?
 ** Was sind die Voraussetzungen dafür die anderen als vergleichbare Individuen mit sich selbst anzuerkennen?
-**
 
 * Internalismus und Externalismus
 ** Searle: _Alles_ geht auf Zustände des Individuums zurück.
@@ -43,11 +26,10 @@ Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweis
 *** Das selbe machen - vielmehr _wollen_
 *** Unter welchen Bedingungen geht das überhaupt?
 
-=== Gabel
+== Figuren in der Arbeit
+=== Rationalistisches Modell
 
-==== Rationalistisches Modell
-
-* Geht etwas verloren durch die Eingrenzung auf die Methodik und die Objekte eines rationalistischen Modells?footnote:[Was ist eine Theorie?]
+* Geht etwas verloren durch die Eingrenzung auf die Methodik und die Objekte eines rationalistischen Modells?
 * Bewusstwerden: Was kann nicht gesagt werden?
 * Ist durch die Eingrenzung die Wahrheit der Aussagen über den Bereich in Gefahr?footnote:[siehe beispielsweise die Debatte zwischen Derrida und Searle über die Verteidigung von Austins Sprechakttheorie, welche sich explizit nur auf einen engen Bereich bezieht.]
 ** Kategorisierung von mannigfaltigen Phänomenen ("Zählbarmachung"), Subsummierung unter Begriffe.
@@ -59,7 +41,7 @@ Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweis
 * Was fällt in Anbetracht der Technisierung bzw. technischen Entwicklung von mannigfaltiger Erfahrung und Phänomenen unter den Tisch?
 * Ist das, was herunterfällt, überhaupt bemerkbar, wenn man sich auf die Technisierung einlässt und damit hantiert?footnote:[Mit den Begriffen operieren \~Winograd und Flores, Modellkritik, 3 Schritte.]
 
-==== ``Ist es die selbe Frage?''
+=== ``Ist es die selbe Frage?''
 * Ist es die selbe Frage...
 ** wie am Anfang des Gedankengangs?
 ** zwischen individualistischer Intentionalität und kollektivistische Intentionalität?
@@ -70,24 +52,20 @@ Dabei helfen mir die Eingrenzungen (_Definitionsrahmen_) seiner Betrachtungsweis
 *** Wodurch ergibt sich die divergierende Auffassung zwischen Searle und Schmid/ Schweikard?
 
 
-=== Ziel der Arbeit
-==== Auf der einen Seite
+== Ziel der Arbeit
+=== Auf der einen Seite
 * Searles Modell über die strukturellen Beziehungen der Individuen untereinander.
 * Ein Verständnis dafür, was das ``Mehr'' der kollektivistischenen Unternehmung gegenüber der bloßen Aufsummierung der Individuen inklusive ihren Beziehungen untereinander ist.
 * Kritik und Abgrenzung von anderen Modellen.
 
-==== Auf der anderen Seite
+=== Auf der anderen Seite
 * Schmid und Schweikards (+ X)footnote:[Meijers] Verständnis von Searles Modell.
 * Klärung über Schmids und Schweikards Verständnis über das ``Kollektiv''.
-
 
 Aus den zwei Positionen wird im synthetischen Zusammenschluss ein Verständnis von den Voraussetzungen für gemeinsames Handeln erarbeitet.
 
 
-
-
-
-=== Meine Methode
+== Meine Methode
 
 Meine unterstellende bzw. voraussetzende Betrachtungsweise und Methodik besteht darin, dass das folgende Modell der ``zyklischen'' Theoriebildung auf die Modelle der Postionen von Searle und Schmid/ Schweikard + X angewendet wird.
 
