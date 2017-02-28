@@ -8,6 +8,9 @@ Ablage - Internalistische Kollektivität
 :Revision:  v0.1
 
 
+
 === Zitate und Ideen
 * Searle: Meines Erachtens waren die verschiedenen Formen des Behaviourismus und Funktionalismus niemals durch eine unabhängige Untersuchung der Fakten motiviert, sondern durch die Befürchtung, wir wären dem Dualismus und einem anscheinend unlösbaren Körper/ Geist-Problem ausgeliefert, solange sich kein Weg fände, geistige Phänomene (in ihrem naiven Verständnis) zu eliminieren.footnote:[Intentionalität, Suhrkamp, S. 11]
 ** Hier hat Schmid eine vergleichbaren Aspekt mit der Auffassung Searles: dass wir nicht diesem Körper-Geist-Problem ausgeliefert sind.footnote:[Plural Action, zw. S. 25 und 27] Wie sieht seine Lösung aus?
+* cartesianische gehirnwäsche und Geist
+* vererbte Probleme von der Phil des Geistes
