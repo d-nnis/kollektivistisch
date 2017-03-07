@@ -25,9 +25,9 @@ Internalistische Kollektivität
 * Geht etwas verloren durch die Eingrenzung auf die Methodik und die Objekte eines rationalistischen Modells?
 * Bewusstwerden: Was kann nicht gesagt werden?
 * Ist durch die Eingrenzung die Wahrheit der Aussagen über den Bereich in Gefahr?footnote:[siehe beispielsweise die Debatte zwischen Derrida und Searle über die Verteidigung von Austins Sprechakttheorie, welche sich explizit nur auf einen engen Bereich bezieht.]
-** Kategorisierung von mannigfaltigen Phänomenen ("Zählbarmachung"), Subsummierung unter Begriffe.footnoteref:[note2,siehe beispielsweise die Debatte zwischen Derrida und Searle über die Verteidigung von Austins Sprechakttheorie, welche sich explizit nur auf einen engen Bereich bezieht.]
+** Kategorisierung von mannigfaltigen Phänomenen ("Zählbarmachung"), Subsummierung unter Begriffe.
 ** _Typen_ und _Token_ ("Phänomen A und Phänomen B zählen unter den selben Typ" und "2 eines Typs sind zwei Token")
-** Verwechselung von Typen und Token{wj}footnoteref:[note2]
+** Verwechselung von Typen und Tokenfootnote:[Einschätzung von Schmid/ Schweikard über ??]
 ** Universalienproblem
 ** Individuation mentalen Gehaltsfootnote:[Hobbes]
 *** Ist damit ``Zählbarmachung'' oder ``Mannigfaltisierung'' gemeint?

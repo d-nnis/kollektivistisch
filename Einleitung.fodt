@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document
+ xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+ xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"
+ xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
+ xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"
+ xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+ xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"
+ xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0"
+ xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0"
+ xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"
+ xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"
+ xmlns:math="http://www.w3.org/1998/Math/MathML"
+ xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"
+ xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"
+ xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0"
+ xmlns:ooo="http://openoffice.org/2004/office"
+ xmlns:ooow="http://openoffice.org/2004/writer"
+ xmlns:oooc="http://openoffice.org/2004/calc"
+ xmlns:dom="http://www.w3.org/2001/xml-events"
+ xmlns:xforms="http://www.w3.org/2002/xforms"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:rpt="http://openoffice.org/2005/report"
+ xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2"
+ xmlns:xhtml="http://www.w3.org/1999/xhtml"
+ xmlns:grddl="http://www.w3.org/2003/g/data-view#"
+ xmlns:tableooo="http://openoffice.org/2009/table"
+ xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0"
+ xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0"
+ xmlns:css3t="http://www.w3.org/TR/css3-text/"
+ office:version="1.2"
+ office:mimetype="application/vnd.oasis.opendocument.text">
+
+<!-- meta -->
+<office:meta>
+ <dc:title>Internalistische Kollektivität</dc:title>
+ <dc:creator>D-nnis</dc:creator>
+ <meta:creation-date>2017-02-24T00:00:00</meta:creation-date>
+ <dc:date>2017-03-07T00:00:00</dc:date>
+ <dc:language>en</dc:language>
+ <meta:initial-creator>D-nnis &lt;&gt;</meta:initial-creator>
+ <meta:generator>AsciiDoc 8.6.9</meta:generator>
+ <meta:user-defined meta:name="author">D-nnis</meta:user-defined>
+ <meta:user-defined meta:name="email"></meta:user-defined>
+</office:meta>
+
+<!-- scripts -->
+<office:scripts>
+ <office:event-listeners>
+ </office:event-listeners>
+</office:scripts>
+
+
+<!-- body -->
+<office:body>
+<office:text text:use-soft-page-breaks="true">
+<text:p text:style-name="sect0"><text:title/></text:p>
+<text:p text:style-name="cover-text"><text:span text:style-name="author"><text:author-name text:fixed="true">D-nnis</text:author-name></text:span> <text:line-break/><text:span text:style-name="email">&lt;<text:a xlink:type="simple" xlink:href="mailto:"></text:a>&gt;</text:span><text:line-break/>version v0.1{revdate?,}</text:p>
+<text:h text:style-name="sect1" text:outline-level="1"><text:bookmark-start text:name="_inhaltliche_aspekte"/>Inhaltliche Aspekte<text:bookmark-end text:name="_inhaltliche_aspekte"/></text:h>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Intentionalität als Bezug des Individuums zur Welt.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Bezug zu anderen Individuen.
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Was sind andere Individuen für die Betrachtung des Individuums?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Was sind die Voraussetzungen dafür die anderen als vergleichbare Individuen mit sich selbst anzuerkennen?
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Internalismus und Externalismus
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Searle: <text:span text:style-name="emphasis">Alles</text:span> geht auf Zustände des Individuums zurück.
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Was ist mit Alles gemeint?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Wie ist die Abgrenzung zwischen einem internen und einem externen Zustand beschaffen?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Wie kann ein Zustand nur intern entstehen?
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Gegenpositionen
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Geht etwas verloren durch die Eingrenzung auf die Methodik und die Objekte eines rationalistischen Modells?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Bewusstwerden: Was kann nicht gesagt werden?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Ist durch die Eingrenzung die Wahrheit der Aussagen über den Bereich in Gefahr?<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">siehe beispielsweise die Debatte zwischen Derrida und Searle über die Verteidigung von Austins Sprechakttheorie, welche sich explizit nur auf einen engen Bereich bezieht.</text:p></text:note-body></text:note>
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Kategorisierung von mannigfaltigen Phänomenen ("Zählbarmachung"), Subsummierung unter Begriffe.<text:note text:id="note2" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body><text:p text:style-name="footnote"><text:bookmark-start text:name="note2"/>siehe beispielsweise die Debatte zwischen Derrida und Searle über die Verteidigung von Austins Sprechakttheorie<text:bookmark-end text:name="note2"/></text:p></text:note-body></text:note>
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+<text:span text:style-name="emphasis">Typen</text:span> und <text:span text:style-name="emphasis">Token</text:span> ("Phänomen A und Phänomen B zählen unter den selben Typ" und "2 eines Typs sind zwei Token")
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Verwechselung von Typen und Token&#8288;<text:a xlink:type="simple" xlink:href="#note2">[note2]</text:a>
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Universalienproblem
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Individuation mentalen Gehalts<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Hobbes</text:p></text:note-body></text:note>
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Ist damit &#8220;Zählbarmachung&#8221; oder &#8220;Mannigfaltisierung&#8221; gemeint?
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Was fällt in Anbetracht der Technisierung bzw. technischen Entwicklung von mannigfaltiger Erfahrung und Phänomenen unter den Tisch?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Ist das, was herunterfällt, überhaupt bemerkbar, wenn man sich auf die Technisierung einlässt und damit hantiert?<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Mit den Begriffen operieren \~Winograd und Flores, Modellkritik, 3 Schritte.</text:p></text:note-body></text:note>
+</text:p>
+</text:list-item>
+</text:list>
+<text:h text:style-name="sect2" text:outline-level="2"><text:bookmark-start text:name="_8220_ist_es_die_selbe_frage_8221"/>&#8220;Ist es die selbe Frage?&#8221;<text:bookmark-end text:name="_8220_ist_es_die_selbe_frage_8221"/></text:h>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Ist es die selbe Frage&#8230;
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+wie am Anfang des Gedankengangs?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+zwischen individualistischer Intentionalität und kollektivistische Intentionalität?
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Können die Methoden und Begriffe der einen auf die andere Intentionalität übertragen werden?
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Searle: Ja, aber nur durch (geringfügige) Anpassung.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Schmid/ Schweikard bewerten Searles Anpassung als konzeptionellen Bruch,<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Wo?</text:p></text:note-body></text:note> sie behaupten, dass sich Searles Begriffe nicht übertragen lassen.
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Wie sieht Searles Auffassung nach die Anpassung aus? Was sagt die Notwendigkeit der Anpassung über seine Antworten über individualistische Intentionalität aus?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Wodurch ergibt sich die divergierende Auffassung zwischen Searle und Schmid/ Schweikard?
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+</text:list>
+</text:list-item>
+</text:list>
+<text:h text:style-name="sect1" text:outline-level="1"><text:bookmark-start text:name="_ziel_der_arbeit"/>Ziel der Arbeit<text:bookmark-end text:name="_ziel_der_arbeit"/></text:h>
+<text:h text:style-name="sect2" text:outline-level="2"><text:bookmark-start text:name="_auf_der_einen_seite"/>Auf der einen Seite<text:bookmark-end text:name="_auf_der_einen_seite"/></text:h>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Searles Modell über die strukturellen Beziehungen der Individuen untereinander.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Ein Verständnis dafür, was das &#8220;Mehr&#8221; der kollektivistischenen Unternehmung gegenüber der bloßen Aufsummierung der Individuen inklusive ihren Beziehungen untereinander ist.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Kritik und Abgrenzung von anderen Modellen.
+</text:p>
+</text:list-item>
+</text:list>
+<text:h text:style-name="sect2" text:outline-level="2"><text:bookmark-start text:name="_auf_der_anderen_seite"/>Auf der anderen Seite<text:bookmark-end text:name="_auf_der_anderen_seite"/></text:h>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Schmid und Schweikards (+ X)<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Meijers</text:p></text:note-body></text:note> Verständnis von Searles Modell.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Klärung über Schmids und Schweikards Verständnis über das &#8220;Kollektiv&#8221;.
+</text:p>
+</text:list-item>
+</text:list>
+<text:p text:style-name="text-body">Aus den zwei Positionen wird im synthetischen Zusammenschluss ein Verständnis von den Voraussetzungen für gemeinsames Handeln erarbeitet.</text:p>
+<text:h text:style-name="sect1" text:outline-level="1"><text:bookmark-start text:name="_meine_methode"/>Meine Methode<text:bookmark-end text:name="_meine_methode"/></text:h>
+<text:p text:style-name="text-body">Meine unterstellende bzw. voraussetzende Betrachtungsweise und Methodik besteht darin, dass das folgende Modell der &#8220;zyklischen&#8221; Theoriebildung auf die Modelle der Postionen von Searle und Schmid/ Schweikard + X angewendet wird.</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+<text:span text:style-name="emphasis">Zyklus</text:span> <text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Winograd &amp; Flores</text:p></text:note-body></text:note>
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+&#8220;unübersichtlicher&#8221; Ausgangspunkt: Realität und Erfahrung.
+</text:p>
+<text:list text:style-name="orderedlist">
+<text:list-item>
+<text:p text:style-name="orderedlist-item">
+Theoriebildung &#8594; Begriffe und Gesetze, bzw. &#8220;Objekte&#8221; und &#8220;Bewegung&#8221;.<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Die Begriffspaare sind zueinander komplementär.</text:p></text:note-body></text:note>
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="orderedlist-item">
+Dynamisierung &#8594; Beobachtung der Simulation, d.h. die herausgebildeten Begriffe in Form von Objekten &#8220;bewegen&#8221; sich und treten untereinander in Beziehung nach den Gesetzen, die ebenso wie die Objekte aus der Theoriebildung resultieren.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="orderedlist-item">
+Analyse der (erneuten) modellierten Unübersichtlichkeit.
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Rückschluss auf den Ausgangspunkt.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Evaluation der Methodik (und der daraus resultierenden, methodologisch bedingten Objekte).<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">&#8220;deutero-Lernen&#8221; (Gregory Bateson)</text:p></text:note-body></text:note>
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Auswertung der Erfahrung, die den Anfang der Untersuchung bildet.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Auswertung der Ausgangsfrage<text:line-break/>
+Mit der Rückführung auf die Ausganssituation der Untersuchung sollte folgendes deutlich werden:
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Was ist die Frage?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Was ist die Antwort?
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Ist die Antwort wahr oder falsch?
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+</text:list>
+</text:list-item>
+</text:list>
+<text:p text:style-name="text-body">Die Anwendung dieser Methode auf die Autoren hat über die Kapitel der Arbeit hinweg folgende Auswirkungen:</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Analysierendes Herausarbeiten der, und Festhalten an den Untersuchungsobjekten der Autoren. Im Prozess der Untersuchung (&#8220;Zyklus&#8221;) durch Searle und Schmid/ Schweikard (+ X) fällt es auf diese Art und Weise leichter, kritische Unterschiede zu identifizieren und herauszustellen. Vermutlicherweise stellt sich heraus, dass die Kontrahenten durch unterschiedliche Auffassungen, Prämissen, Untersuchungsmethoden und auch Motivationen aneinander vorbei reden oder ganz klassisch den Kern der Debatte oder das zu klärende Phänomen aus den Augen verlieren.
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Zwei Beispiele dazu, wie dies methodisch gmeint ist:
+</text:p>
+<text:list text:style-name="itemizedlist">
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Searle: &#8220;Meines Erachtens waren die verschiedenen Formen des Behaviourismus und Funktionalismus <text:span text:style-name="emphasis">niemals durch eine unabhängige Untersuchung der Fakten motiviert</text:span>, sondern durch die <text:span text:style-name="emphasis">Befürchtung</text:span>, wir wären dem Dualismus und einem anscheinend unlösbaren Körper/ Geist-Problem <text:span text:style-name="emphasis">ausgeliefert</text:span>, solange sich kein Weg fände, geistige Phänomene (in ihrem naiven Verständnis) zu eliminieren.&#8221; <text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Intentionalität, Suhrkamp, S. 11</text:p></text:note-body></text:note> (Hervorhebung von mir)
+</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="itemizedlist-item">
+Searle scheint entweder mit seinen wissenschaftlichen Arbeiten über Dekaden hinweg eine monumentale, in sich stimmige Philosophie erarbeitet zu haben, oder &#8220;biegt&#8221; - scheinbar nur auf Kosten von Kleinigkeiten - seine Überlegungen so zurecht, dass an entscheidenden Stellen ein Fehlurteil entsteht.<text:note text:note-class="footnote"><text:note-citation><text:label>1</text:label></text:note-citation><text:note-body><text:p text:style-name="footnote">Dies ist mir an mehreren kleinen Stellen aufgefallen. Klar ist, dass ein so geartetes Fehlurteil natürlich argumentativ hergeleitet werden muss.</text:p></text:note-body></text:note>
+</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+</text:list>
+</office:text>
+</office:body>
+</office:document>
