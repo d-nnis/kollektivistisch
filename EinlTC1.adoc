@@ -1,0 +1,88 @@
+
+
+Internalistische Kollektivität
+==============================
+:Author:    D-nnis
+:Email:     
+:Date:      2017-02-24
+:Revision:  v0.1
+
+== Inhaltliche Aspekte
+* Intentionalität als Bezug des Individuums zur Welt.
+* Bezug zu anderen Individuen.
+** Was sind andere Individuen für die Betrachtung des Individuums?
+** Was sind die Voraussetzungen dafür die anderen als vergleichbare Individuen mit sich selbst anzuerkennen?
+
+* Internalismus und Externalismus
+** Searle: _Alles_ geht auf Zustände des Individuums zurück.
+*** Was ist mit Alles gemeint?
+*** Wie ist die Abgrenzung zwischen einem internen und einem externen Zustand beschaffen?
+*** Wie kann ein Zustand nur intern entstehen?
+
+** Gegenpositionen
+
+
+* Geht etwas verloren durch die Eingrenzung auf die Methodik und die Objekte eines rationalistischen Modells?
+* Bewusstwerden: Was kann nicht gesagt werden?
+* Ist durch die Eingrenzung die Wahrheit der Aussagen über den Bereich in Gefahr?footnote:[siehe beispielsweise die Debatte zwischen Derrida und Searle über die Verteidigung von Austins Sprechakttheorie, welche sich explizit nur auf einen engen Bereich bezieht.]
+** Kategorisierung von mannigfaltigen Phänomenen ("Zählbarmachung"), Subsummierung unter Begriffe.footnoteref:[note2,siehe beispielsweise die Debatte zwischen Derrida und Searle über die Verteidigung von Austins Sprechakttheorie, welche sich explizit nur auf einen engen Bereich bezieht.]
+** _Typen_ und _Token_ ("Phänomen A und Phänomen B zählen unter den selben Typ" und "2 eines Typs sind zwei Token")
+** Verwechselung von Typen und Token{wj}footnoteref:[note2]
+** Universalienproblem
+** Individuation mentalen Gehaltsfootnote:[Hobbes]
+*** Ist damit ``Zählbarmachung'' oder ``Mannigfaltisierung'' gemeint?
+* Was fällt in Anbetracht der Technisierung bzw. technischen Entwicklung von mannigfaltiger Erfahrung und Phänomenen unter den Tisch?
+* Ist das, was herunterfällt, überhaupt bemerkbar, wenn man sich auf die Technisierung einlässt und damit hantiert?footnote:[Mit den Begriffen operieren \~Winograd und Flores, Modellkritik, 3 Schritte.]
+
+=== ``Ist es die selbe Frage?''
+* Ist es die selbe Frage...
+** wie am Anfang des Gedankengangs?
+** zwischen individualistischer Intentionalität und kollektivistische Intentionalität?
+* Können die Methoden und Begriffe der einen auf die andere Intentionalität übertragen werden?
+** Searle: Ja, aber nur durch (geringfügige) Anpassung. 
+** Schmid/ Schweikard bewerten Searles Anpassung als konzeptionellen Bruch,footnote:[Wo?] sie behaupten, dass sich Searles Begriffe nicht übertragen lassen.
+*** Wie sieht Searles Auffassung nach die Anpassung aus? Was sagt die Notwendigkeit der Anpassung über seine Antworten über individualistische Intentionalität aus?
+*** Wodurch ergibt sich die divergierende Auffassung zwischen Searle und Schmid/ Schweikard?
+
+
+== Ziel der Arbeit
+=== Auf der einen Seite
+* Searles Modell über die strukturellen Beziehungen der Individuen untereinander.
+* Ein Verständnis dafür, was das ``Mehr'' der kollektivistischenen Unternehmung gegenüber der bloßen Aufsummierung der Individuen inklusive ihren Beziehungen untereinander ist.
+* Kritik und Abgrenzung von anderen Modellen.
+
+=== Auf der anderen Seite
+* Schmid und Schweikards (+ X)footnote:[Meijers] Verständnis von Searles Modell.
+* Klärung über Schmids und Schweikards Verständnis über das ``Kollektiv''.
+
+Aus den zwei Positionen wird im synthetischen Zusammenschluss ein Verständnis von den Voraussetzungen für gemeinsames Handeln erarbeitet.
+
+
+== Meine Methode
+
+Meine unterstellende bzw. voraussetzende Betrachtungsweise und Methodik besteht darin, dass das folgende Modell der ``zyklischen'' Theoriebildung auf die Modelle der Postionen von Searle und Schmid/ Schweikard + X angewendet wird.
+
+* _Zyklus_ footnote:[Winograd & Flores]
+* ``unübersichtlicher'' Ausgangspunkt: Realität und Erfahrung.
+. Theoriebildung -> Begriffe und Gesetze, bzw. ``Objekte'' und ``Bewegung''.footnote:[Die Begriffspaare sind zueinander komplementär.]
+. Dynamisierung -> Beobachtung der Simulation, d.h. die herausgebildeten Begriffe in Form von Objekten ``bewegen'' sich und treten untereinander in Beziehung nach den Gesetzen, die ebenso wie die Objekte aus der Theoriebildung resultieren.
+. Analyse der (erneuten) modellierten Unübersichtlichkeit.
+** Rückschluss auf den Ausgangspunkt.
+** Evaluation der Methodik (und der daraus resultierenden, methodologisch bedingten Objekte).footnote:[``deutero-Lernen'' (Gregory Bateson)]
+** Auswertung der Erfahrung, die den Anfang der Untersuchung bildet.
+** Auswertung der Ausgangsfrage +
+Mit der Rückführung auf die Ausganssituation der Untersuchung sollte folgendes deutlich werden:
+** Was ist die Frage?
+** Was ist die Antwort?
+** Ist die Antwort wahr oder falsch?
+
+Die Anwendung dieser Methode auf die Autoren hat über die Kapitel der Arbeit hinweg folgende Auswirkungen:
+
+* Analysierendes Herausarbeiten der, und Festhalten an den Untersuchungsobjekten der Autoren. Im Prozess der Untersuchung (``Zyklus'') durch Searle und Schmid/ Schweikard (+ X) fällt es auf diese Art und Weise leichter, kritische Unterschiede zu identifizieren und herauszustellen. Vermutlicherweise stellt sich heraus, dass die Kontrahenten durch unterschiedliche Auffassungen, Prämissen, Untersuchungsmethoden und auch Motivationen aneinander vorbei reden oder ganz klassisch den Kern der Debatte oder das zu klärende Phänomen aus den Augen verlieren.
+* Zwei Beispiele dazu, wie dies methodisch gmeint ist:
+** Searle: ``Meines Erachtens waren die verschiedenen Formen des Behaviourismus und Funktionalismus _niemals durch eine unabhängige Untersuchung der Fakten motiviert_, sondern durch die _Befürchtung_, wir wären dem Dualismus und einem anscheinend unlösbaren Körper/ Geist-Problem _ausgeliefert_, solange sich kein Weg fände, geistige Phänomene (in ihrem naiven Verständnis) zu eliminieren.'' footnote:[Intentionalität, Suhrkamp, S. 11] (Hervorhebung von mir)
+** Searle scheint entweder mit seinen wissenschaftlichen Arbeiten über Dekaden hinweg eine monumentale, in sich stimmige Philosophie erarbeitet zu haben, oder ``biegt'' - scheinbar nur auf Kosten von Kleinigkeiten - seine Überlegungen so zurecht, dass an entscheidenden Stellen ein Fehlurteil entsteht.footnote:[Dies ist mir an mehreren kleinen Stellen aufgefallen. Klar ist, dass ein so geartetes Fehlurteil natürlich argumentativ hergeleitet werden muss.]
+
+
+
+
