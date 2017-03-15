@@ -25,6 +25,7 @@
 *** Argumente A1 - A4b
 ** Die Intuition ist...
 ** *Ziel dieses Kapitels:*
+** Antithese: ``Summenthese''. ``Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.''footnote:[KI, S. 105f] (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)
 ** Searles Untersuchung laufe nicht auf eine _universelle Negation_ hinaus.footnote:["...dass keine solche Analyse jemals gelingen kann" KI, S. 106] Jede Analyse scheitere jedoch dadurch, dass es ihnen an einer hinreichende Bedingung für Kooperation fehle. Man könne den in der Analyse geforderten Bedingungen genügen, ohne kollektive Intentionalität zu haben. (Implikationen: Was heißt das?)
 *** Was sind die ``ähnlichen Gründe'', an denen ``die reduktive Analyse von kollektiver Intentionalität scheitern'' - also: ähnlich zu was?
 *** keine hinreichende Bedingung von Kooperation <--> keine kollektive Intentionalität haben ?
