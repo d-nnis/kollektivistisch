@@ -1,0 +1,27 @@
+== Outlining
+
+* Top-Down-strategy: Grobe Kapiteleinteilung vorgeben
+* -> Inhaltsverzeichnis
+* Verfeinerung geschieht im Schreibprozess
+* ``Schreibe ganz natürlich, wie du schreibst, und verfeinere das Ergebnis danach.
+
+=== Los Gehts
+* Erwartungen/ Kontext
+** Nach Searles Dafürhalten werden lediglich kleine Modifikationen vorgenommen
+*** Welche sind das?
+** Nach SchmiSchweis Meinung ist es ein Bruch.
+*** Stelle! Bedeutung!
+
+== Die Kapitel
+* Pro Kapitel eine Botschaft
+
+=== 1. Die Intuition
+* These 1, 2 und 3
+
+=== 2. Die Notation
+
+=== 3. Die Voraussetzung
+* 4. These
+
+
+
