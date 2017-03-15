@@ -16,12 +16,32 @@
 * Pro Kapitel eine Botschaft
 
 === 1. Die Intuition
-* These 1, 2 und 3
+* Leitfaden
+** These 1, 2 und 3
+** Bedingungen 1 und 2
+** Argumente _gegen_ Reduzibilität
+** kollektiv absichtliches Verhalten sei ein _primitives Phänomen_
+** Begründung der Intuition
+*** Argumente A1 - A4b
+** Die Intuition ist...
+** *Ziel dieses Kapitels:*
+** Searles Untersuchung laufe nicht auf eine _universelle Negation_ hinaus.footnote:["...dass keine solche Analyse jemals gelingen kann" KI, S. 106] Jede Analyse scheitere jedoch dadurch, dass es ihnen an einer hinreichende Bedingung für Kooperation fehle. Man könne den in der Analyse geforderten Bedingungen genügen, ohne kollektive Intentionalität zu haben. (Implikationen: Was heißt das?)
+*** Was sind die ``ähnlichen Gründe'', an denen ``die reduktive Analyse von kollektiver Intentionalität scheitern'' - also: ähnlich zu was?
+*** keine hinreichende Bedingung von Kooperation <--> keine kollektive Intentionalität haben ?
 
+
+
+
+==== Wortschatz
+* Begriffe einführen und unterbringen
+* Fähigkeit, Komponente, Absicht; mental, repräsentational, intentional
+* später: seinen Teil tun, Kooperation
 === 2. Die Notation
 
 === 3. Die Voraussetzung
 * 4. These
 
 
-
+=== Analyse
+* Untersuchungsperspektive: Teilnehmerperspektiv, Vollzugsperspektive
+* Mein Fokus liegt darauf, die Rolle der Intentionalität deutlich zu machen, nicht aber die des Verhaltens oder der hier prominenten Rolle der Bewegung 
