@@ -26,17 +26,34 @@
 ** Die Intuition ist...
 ** *Ziel dieses Kapitels:*
 ** Antithese: ``Summenthese''. ``Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.''footnote:[KI, S. 105f] (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)
-** Searles Untersuchung laufe nicht auf eine _universelle Negation_ hinaus.footnote:["...dass keine solche Analyse jemals gelingen kann" KI, S. 106] Jede Analyse scheitere jedoch dadurch, dass es ihnen an einer hinreichende Bedingung für Kooperation fehle. Man könne den in der Analyse geforderten Bedingungen genügen, ohne kollektive Intentionalität zu haben. (Implikationen: Was heißt das?)
+** ``Wir-Absichten lassen sich nicht reduzieren auf Ich-Absichten'' ist die lange Aussage von ``Wir-Absichten sind primitiv''.
+** Plausibelmachen der Definition durch anschauliches Beispiel, S. 104: Business-School-Argument.
+*** Auch wenn die Absicht wissentlich geteilt wird, fehlt zum Kooperieren die primitive Wir-Absicht.
+*** Im Gewissen Sinne ist ja die Ich-Absicht in solchen Fällen reduzierbar auf die Wir-Absicht. _Ich handel_, weil _wir handeln_. Das Handlungsverursachende ist in dem Fall die Entscheidung, sich dem gemeinsamen Handeln anzuschließen.
+**** Ist dies auch der Unterschied zwischen geteiltes Handeln und gemeinsames Handeln?
+***** Geteilt: ``alle haben die selbe Überzeugung''. Gemeinsam: Der Ursprung unseres synchronen Handelns ist nicht, dass wir wegen Zufalls die selbe Überzeugung und Absicht haben, kongruent sind, sondern weil die Überzeugung und Absicht jedes Individuums aus einem gemeinsamen `Bereich' gekommen. Dieser gemeinsame Bereich oder diese gemeinsame Entität ist die Wir-Absicht.
+*** ``ohne Bezug zu jemand anderen'' - ``unter den Mitgliedern gibt es eine wechselseitig geteilte Überzeugung''. Zunächst ließe sich das _schon_ als ein Bezug zueinander deuten, womit es sich oberflächlich widerspricht. Lässt es sich so lesen, dass die Überzeugung der Individuen vielmehr (strukturell) kongruent ist? Es gilt auf jeden Fall stark zu machen, dass es zumindest Searles Interesse so ausgelegt wird, dass zwar jeder um die geteilte Absicht der Absolventen weiß, diese Merkmalsgleichheit aber nicht relevant ist für die Leitung der eigenen Handlung, bzw. nicht handlungsverursachend ist!
+
+*** Erwähnt Searle selbst eigentlich irgendwo, dass die Ableitung von der Wir- zur Ich-Absicht handlungsrelevant ist, i. S. v. handlungsverursachend oder handlungsleitend!?
+** Searles Untersuchung laufe nicht auf eine _universelle Negation_ hinaus.footnote:["...dass keine solche Analyse jemals gelingen kann" KI, S. 105] Jede Analyse scheitere jedoch dadurch, dass es ihnen an einer hinreichende Bedingung für Kooperation fehle. Man könne den in der Analyse geforderten Bedingungen genügen, ohne kollektive Intentionalität zu haben. (Implikationen: Was heißt das?)
 *** Was sind die ``ähnlichen Gründe'', an denen ``die reduktive Analyse von kollektiver Intentionalität scheitern'' - also: ähnlich zu was?
 *** keine hinreichende Bedingung von Kooperation <--> keine kollektive Intentionalität haben ?
+** Ist `handlungsverursachend' ein Begriff, der Schwierigkeiten mit sich bringt, i.S.v. geschichtsphilosophisch vererbte Probleme?
+** Was ist das `HA' ab S. 109?
 
+// Die erste Hälfte von A1 ist ein Argument durch die Intuition, dass es einen Unterschied gibt zwischen absichtlich kollektivem Verhaltenfootnote:[Searle setzt es anders herum: kollektiv absichtliches Verhalten] und einer unkoordinierten Menge an Individuen. Wenn die Intuition stimmt, dass der Unterschied klar erlebbar ist, muss man sich fragen, 
+Der Ausgangspunkt von Searles Überlegungen bildet die Intuition, dass es kollektives absichtlich Verhalten gibt, dass sich unterscheidet von individuellem absichtlichen Verhalten. Dies sei bemerkbar bei allen Gruppenaktivitäten, beispielsweise ist die Musikaufführung eines Orchesters eine Aktivität, die sich charakteristisch daraus ergibt, dass ein stimmiges Musikstück aufgeführt wird - ganz im Gegensatz zu einer Menge von Individuen, die an einem Ort ein eigenes Musikstück für sich aufführen. Ebenso ist das Zusammenspiel einer Sportmannschaft intuitiv als ein absichtlich kollektiv abgestimmte Gruppenbewegung nachvollziehbar. Die Intuition, dass es absichtliches kollektives Verhalten gibt, wird noch stärker, wenn man selbst an einer Aktivität in der Gruppe teilnimmt. <Hervorheben: krasser Unterschied zu unkoordiniert und unkooperativ*>
 
+// Zweite Hälfte von These 1 handelt von der zunächst intuitiv nicht zugänglichen Behauptung, dass sich das Verhalten des Kollektivs nicht auf die Summe des Individual-Verhaltens reduzieren lässt.
+<Kein-äußerlicher-Rest-Argument*>
+Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalten und Verhalten einer Menge von Individuen, die nicht absichtlich gemeinsam eine koordiniertefootnote:[später?] Tätigkeit ausüben. Dennoch lässt sich durch die Intuition feststellen, dass es einen Unterschied gibt. Wenn
 
 
 ==== Wortschatz
 * Begriffe einführen und unterbringen
 * Fähigkeit, Komponente, Absicht; mental, repräsentational, intentional
 * später: seinen Teil tun, Kooperation
+
 === 2. Die Notation
 
 === 3. Die Voraussetzung
