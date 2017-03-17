@@ -3,7 +3,7 @@
 * Top-Down-strategy: Grobe Kapiteleinteilung vorgeben
 * -> Inhaltsverzeichnis
 * Verfeinerung geschieht im Schreibprozess
-* ``Schreibe ganz natürlich, wie du schreibst, und verfeinere das Ergebnis danach.
+* ``Schreibe ganz natürlich, wie du schreibst, und verfeinere das Ergebnis danach.''
 
 === Los Gehts
 * Erwartungen/ Kontext
@@ -14,17 +14,22 @@
 
 == Die Kapitel
 * Pro Kapitel eine Botschaft
-
-=== 1. Die Intuition
 * Leitfaden
+** Einleitung: Auf die Ausgangssituation gehen - es handelt sich um eine Replik auf TuoMi
 ** These 1, 2 und 3
 ** Bedingungen 1 und 2
 ** Argumente _gegen_ Reduzibilität
-** kollektiv absichtliches Verhalten sei ein _primitives Phänomen_
+** kollektiv absichtliches Verhalten sei ein _primitives Phänomen_: Kooperation (A4?)
 ** Begründung der Intuition
 *** Argumente A1 - A4b
 ** Die Intuition ist...
-** *Ziel dieses Kapitels:*
+
+== Wortschatz
+* Begriffe einführen und unterbringen
+* Fähigkeit, Komponente, Absicht; mental, repräsentational, intentional
+* später: seinen Teil tun, Kooperation
+
+=== 1. Die Intuition
 ** Antithese: ``Summenthese''. ``Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.''footnote:[KI, S. 105f] (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)
 ** ``Wir-Absichten lassen sich nicht reduzieren auf Ich-Absichten'' ist die lange Aussage von ``Wir-Absichten sind primitiv''.
 ** Plausibelmachen der Definition durch anschauliches Beispiel, S. 104: Business-School-Argument.
@@ -44,15 +49,22 @@
 // Die erste Hälfte von A1 ist ein Argument durch die Intuition, dass es einen Unterschied gibt zwischen absichtlich kollektivem Verhaltenfootnote:[Searle setzt es anders herum: kollektiv absichtliches Verhalten] und einer unkoordinierten Menge an Individuen. Wenn die Intuition stimmt, dass der Unterschied klar erlebbar ist, muss man sich fragen, 
 Der Ausgangspunkt von Searles Überlegungen bildet die Intuition, dass es kollektives absichtlich Verhalten gibt, dass sich unterscheidet von individuellem absichtlichen Verhalten. Dies sei bemerkbar bei allen Gruppenaktivitäten, beispielsweise ist die Musikaufführung eines Orchesters eine Aktivität, die sich charakteristisch daraus ergibt, dass ein stimmiges Musikstück aufgeführt wird - ganz im Gegensatz zu einer Menge von Individuen, die an einem Ort ein eigenes Musikstück für sich aufführen. Ebenso ist das Zusammenspiel einer Sportmannschaft intuitiv als ein absichtlich kollektiv abgestimmte Gruppenbewegung nachvollziehbar. Die Intuition, dass es absichtliches kollektives Verhalten gibt, wird noch stärker, wenn man selbst an einer Aktivität in der Gruppe teilnimmt. <Hervorheben: krasser Unterschied zu unkoordiniert und unkooperativ*>
 
+Ein Musikstück, dass nicht absichtlich kollektiv aufgeführt wird, klingt schief.
+Das Footballspiel ist kein Spiel im konventionellen/ konstitutivem Sinne, wenn jeder Spieler nur für sich dem Ball nachläuft.
+Wodurch wird nun ersichtlich, dass ein absichtlich kollektives Verhalten nicht durch die Einzelteile analysierbar ist?footnote:[also nicht reduzierbar]
+
+
 // Zweite Hälfte von These 1 handelt von der zunächst intuitiv nicht zugänglichen Behauptung, dass sich das Verhalten des Kollektivs nicht auf die Summe des Individual-Verhaltens reduzieren lässt.
 <Kein-äußerlicher-Rest-Argument*>
 Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalten und Verhalten einer Menge von Individuen, die nicht absichtlich gemeinsam eine koordiniertefootnote:[später?] Tätigkeit ausüben. Dennoch lässt sich durch die Intuition feststellen, dass es einen Unterschied gibt. Wenn
 
 
-==== Wortschatz
-* Begriffe einführen und unterbringen
-* Fähigkeit, Komponente, Absicht; mental, repräsentational, intentional
-* später: seinen Teil tun, Kooperation
+****
+_Kollektive Intentionalität ist primitiv, weil dort etwas Neues hinzukommt, dass wesentlich die individuelle Intentionalität prägt. Wesentlich im Sinne von handlungsleitend._
+****
+
+*Ziel dieses Kapitels:* Wichtig ist die Urheberschaft des Teils zu identifizierenfootnote:[_seinen Teil tun_ (TuoMi)] 
+
 
 === 2. Die Notation
 
@@ -62,4 +74,12 @@ Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalte
 
 === Analyse
 * Untersuchungsperspektive: Teilnehmerperspektiv, Vollzugsperspektive
-* Mein Fokus liegt darauf, die Rolle der Intentionalität deutlich zu machen, nicht aber die des Verhaltens oder der hier prominenten Rolle der Bewegung 
+* Mein Fokus liegt darauf, die Rolle der Intentionalität deutlich zu machen, nicht aber die des Verhaltens oder der hier prominenten Rolle der Bewegung
+
+=== Weiterführendes
+* Aus Webb
+** Über _Bratman_: (Webb, S: 5) "Whereas an individual intention is a state if mind, Bratman suggests that a collective or shared intention is a state of affairs that consists in individual intentions and the relations in which they stand."
+** "Isaacs maintains that the relations that exist among individual intentions are what account for the irreducibility of collective intentionality and are, thereby, what support that collective action is irreducibe
+** "Anthony Meijers and Margaret Gilbert suggest, for example, that while the relations identified by Bratman may be necessary to achieve collective intentionality, they are not sufficient. They argue, that collective intentionality entails a level of normativity that Bratman's account fails to capture. According to Meijers, to share an intention is to participate in an agreement that has normative implications. Meijers contends that, ``Such agreements bind the participants in various ways and are an explanatory factor in the subsequent collective action''".
+** "Similarily, Gilbert claims that..."
+** Bratman <--> Searle <--> Isaacs -> Meijers <--> Gilbert
