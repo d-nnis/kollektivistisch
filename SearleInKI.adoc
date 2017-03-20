@@ -30,6 +30,23 @@
 * später: seinen Teil tun, Kooperation
 
 === 1. Die Intuition
+// Die erste Hälfte von A1 ist ein Argument durch die Intuition, dass es einen Unterschied gibt zwischen absichtlich kollektivem Verhaltenfootnote:[Searle setzt es anders herum: kollektiv absichtliches Verhalten] und einer unkoordinierten Menge an Individuen. Wenn die Intuition stimmt, dass der Unterschied klar erlebbar ist, muss man sich fragen, 
+Der Ausgangspunkt von Searles Überlegungen bildet die Intuition, dass es kollektives absichtlich Verhalten gibt, dass sich unterscheidet von individuellem absichtlichen Verhalten. Dies sei bemerkbar bei allen Gruppenaktivitäten, beispielsweise ist die Musikaufführung eines Orchesters eine Aktivität, die sich charakteristisch daraus ergibt, dass ein stimmiges Musikstück aufgeführt wird - ganz im Gegensatz zu einer Menge von Individuen, die an einem Ort ein eigenes Musikstück für sich aufführen. Ebenso ist das Zusammenspiel einer Sportmannschaft intuitiv als ein absichtlich kollektiv abgestimmte Gruppenbewegung nachvollziehbar. Die Intuition, dass es absichtliches kollektives Verhalten gibt, wird noch stärker, wenn man selbst an einer Aktivität in der Gruppe teilnimmt. <Hervorheben: krasser Unterschied zu unkoordiniert und unkooperativ*>
+
+Ein Musikstück, dass nicht absichtlich kollektiv aufgeführt wird, klingt schief.
+Das Footballspiel ist kein Spiel im konventionellen/ konstitutivem Sinne, wenn jeder Spieler nur für sich dem Ball nachläuft.
+Wodurch wird nun ersichtlich, dass ein absichtlich kollektives Verhalten nicht durch die Einzelteile analysierbar ist?footnote:[also nicht reduzierbar]
+Argumentation A1
+
+* A1 - These: Kollektives Verhalten besteht nicht nur aus den Komponenten des individuellen Verhaltens. /...besteht es etwas außerhalb von individuellem Verhalten.
+* C1A1: Es gibt außerhalb des Verhaltens von Gruppenmitgliedern niemanden, der sich verhalten könnte. /... der mit seinem Verhalten etwas dem kollektiven Verhalten beisteueren könnte. /... der mit seinem Verhalten für das kollektive Verhalten der Gruppe wesentlich ist.
+* S1C1A1: Etwas Wesenliches für das kollektive Verhalten muss in der mentalen Komponente der Mitglieder liegen. DIe mentale Komponente ist die kollektive Intentionalität.
+
+
+
+// Zweite Hälfte von These 1 handelt von der zunächst intuitiv nicht zugänglichen Behauptung, dass sich das Verhalten des Kollektivs nicht auf die Summe des Individual-Verhaltens reduzieren lässt.
+<Kein-äußerlicher-Rest-Argument*>
+Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalten und Verhalten einer Menge von Individuen, die nicht absichtlich gemeinsam eine koordiniertefootnote:[später?] Tätigkeit ausüben. Dennoch lässt sich durch die Intuition feststellen, dass es einen Unterschied gibt. Wenn
 ** Antithese: ``Summenthese''. ``Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.''footnote:[KI, S. 105f] (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)
 ** ``Wir-Absichten lassen sich nicht reduzieren auf Ich-Absichten'' ist die lange Aussage von ``Wir-Absichten sind primitiv''.
 ** Plausibelmachen der Definition durch anschauliches Beispiel, S. 104: Business-School-Argument.
@@ -46,17 +63,6 @@
 ** Ist `handlungsverursachend' ein Begriff, der Schwierigkeiten mit sich bringt, i.S.v. geschichtsphilosophisch vererbte Probleme?
 ** Was ist das `HA' ab S. 109?
 
-// Die erste Hälfte von A1 ist ein Argument durch die Intuition, dass es einen Unterschied gibt zwischen absichtlich kollektivem Verhaltenfootnote:[Searle setzt es anders herum: kollektiv absichtliches Verhalten] und einer unkoordinierten Menge an Individuen. Wenn die Intuition stimmt, dass der Unterschied klar erlebbar ist, muss man sich fragen, 
-Der Ausgangspunkt von Searles Überlegungen bildet die Intuition, dass es kollektives absichtlich Verhalten gibt, dass sich unterscheidet von individuellem absichtlichen Verhalten. Dies sei bemerkbar bei allen Gruppenaktivitäten, beispielsweise ist die Musikaufführung eines Orchesters eine Aktivität, die sich charakteristisch daraus ergibt, dass ein stimmiges Musikstück aufgeführt wird - ganz im Gegensatz zu einer Menge von Individuen, die an einem Ort ein eigenes Musikstück für sich aufführen. Ebenso ist das Zusammenspiel einer Sportmannschaft intuitiv als ein absichtlich kollektiv abgestimmte Gruppenbewegung nachvollziehbar. Die Intuition, dass es absichtliches kollektives Verhalten gibt, wird noch stärker, wenn man selbst an einer Aktivität in der Gruppe teilnimmt. <Hervorheben: krasser Unterschied zu unkoordiniert und unkooperativ*>
-
-Ein Musikstück, dass nicht absichtlich kollektiv aufgeführt wird, klingt schief.
-Das Footballspiel ist kein Spiel im konventionellen/ konstitutivem Sinne, wenn jeder Spieler nur für sich dem Ball nachläuft.
-Wodurch wird nun ersichtlich, dass ein absichtlich kollektives Verhalten nicht durch die Einzelteile analysierbar ist?footnote:[also nicht reduzierbar]
-
-
-// Zweite Hälfte von These 1 handelt von der zunächst intuitiv nicht zugänglichen Behauptung, dass sich das Verhalten des Kollektivs nicht auf die Summe des Individual-Verhaltens reduzieren lässt.
-<Kein-äußerlicher-Rest-Argument*>
-Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalten und Verhalten einer Menge von Individuen, die nicht absichtlich gemeinsam eine koordiniertefootnote:[später?] Tätigkeit ausüben. Dennoch lässt sich durch die Intuition feststellen, dass es einen Unterschied gibt. Wenn
 
 
 ****
