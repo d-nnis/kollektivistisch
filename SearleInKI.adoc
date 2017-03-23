@@ -47,7 +47,7 @@ Argumentation A1
 * Der innere Unterschied ist hingegen sehr deutlich. Jede Person der Gruppe A stellt seine Absicht ohne Bezugnahme auf die anderen Personen der Gruppe dar. ``Ich hatte die Absicht, den Regen zu vermeiden, indem ich zu dem Unterstand lief.'' Dies gilt auch, obwohl jede Person von den andere weiß, dass sie dieselbe Absicht hat. In diesem Fall liegt kein kollektives Verhalten vor.
 
 // begleitete Menge Argument
-* 
+*   
 
 
 a) Business School Gruppe
