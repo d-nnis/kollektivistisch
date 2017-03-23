@@ -1,5 +1,4 @@
 == Outlining
-
 * Top-Down-strategy: Grobe Kapiteleinteilung vorgeben
 * -> Inhaltsverzeichnis
 * Verfeinerung geschieht im Schreibprozess
@@ -38,11 +37,24 @@ Das Footballspiel ist kein Spiel im konventionellen/ konstitutivem Sinne, wenn j
 Wodurch wird nun ersichtlich, dass ein absichtlich kollektives Verhalten nicht durch die Einzelteile analysierbar ist?footnote:[also nicht reduzierbar]
 Argumentation A1
 
-* A1 - These: Kollektives Verhalten besteht nicht nur aus den Komponenten des individuellen Verhaltens. /...besteht es etwas außerhalb von individuellem Verhalten.
-* C1A1: Es gibt außerhalb des Verhaltens von Gruppenmitgliedern niemanden, der sich verhalten könnte. /... der mit seinem Verhalten etwas dem kollektiven Verhalten beisteueren könnte. /... der mit seinem Verhalten für das kollektive Verhalten der Gruppe wesentlich ist.
-* S1C1A1: Etwas Wesenliches für das kollektive Verhalten muss in der mentalen Komponente der Mitglieder liegen. DIe mentale Komponente ist die kollektive Intentionalität.
+* T1footnote:[eigene Benennung] - These: Kollektives Verhalten besteht nicht nur aus den Komponenten des individuellen Verhaltens. /...besteht auf etwas außerhalb von individuellem Verhalten.
+* A1T1: Es gibt außerhalb des Verhaltens von Gruppenmitgliedern niemanden, der sich verhalten könnte. /... der mit seinem Verhalten etwas dem kollektiven Verhalten beisteueren könnte. /... der mit seinem Verhalten für das kollektive Verhalten der Gruppe wesentlich ist.
+* S1A1T: Etwas Wesenliches für das kollektive Verhalten muss in der mentalen Komponente der Mitglieder liegen. Die mentale Komponente ist die kollektive Intentionalität.
+
+// (äußerlich ununterscheidbar)
+* T2 - Gruppe A (Regenläufer) und Gruppe B (Balletttänzer) verhalten sich ununterscheidbar: Beide laufen konzentriert auf den Unterstand zu.
+* A2T2 - dennoch ist ein Unterschied vorhanden
+* Der innere Unterschied ist hingegen sehr deutlich. Jede Person der Gruppe A stellt seine Absicht ohne Bezugnahme auf die anderen Personen der Gruppe dar. ``Ich hatte die Absicht, den Regen zu vermeiden, indem ich zu dem Unterstand lief.'' Dies gilt auch, obwohl jede Person von den andere weiß, dass sie dieselbe Absicht hat. In diesem Fall liegt kein kollektives Verhalten vor.
+
+// begleitete Menge Argument
+* 
 
 
+a) Business School Gruppe
+Jedem Mitglied wird ein Teil zugeordnet. Der Teil ist definiert im Rahmen der _unsichtbaren-Hand-Theorie_. Es findet keine Absprache zwischen den Personen der Gruppe statt, lediglich entscheidet sich jeder für sich, mit niemanden zu kooperieren.
+
+b) Softballmannschaft
+Die Spieler der Softballmannschaft sprechen sich darin ab, beim Suchen jeder für sich zu handeln. Seinen Teil des Handelns ergibt sich aus der gemeinsamen Entscheidung beim Suchen nicht miteinander zu kooperieren.
 
 // Zweite Hälfte von These 1 handelt von der zunächst intuitiv nicht zugänglichen Behauptung, dass sich das Verhalten des Kollektivs nicht auf die Summe des Individual-Verhaltens reduzieren lässt.
 <Kein-äußerlicher-Rest-Argument*>
@@ -82,7 +94,7 @@ _Kollektive Intentionalität ist primitiv, weil dort etwas Neues hinzukommt, das
 * Untersuchungsperspektive: Teilnehmerperspektiv, Vollzugsperspektive
 * Mein Fokus liegt darauf, die Rolle der Intentionalität deutlich zu machen, nicht aber die des Verhaltens oder der hier prominenten Rolle der Bewegung
 
-=== Weiterführendes
+=== Weiterfuehrendes
 * Aus Webb
 ** Über _Bratman_: (Webb, S: 5) "Whereas an individual intention is a state if mind, Bratman suggests that a collective or shared intention is a state of affairs that consists in individual intentions and the relations in which they stand."
 ** "Isaacs maintains that the relations that exist among individual intentions are what account for the irreducibility of collective intentionality and are, thereby, what support that collective action is irreducibe
