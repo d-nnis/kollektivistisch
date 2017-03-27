@@ -1,4 +1,6 @@
 .directory
 *.pdf
+!SearleInKI.asciidoctor.pdf
+!SearleInKI.asciidoc.pdf
 *.html
 *.xml
