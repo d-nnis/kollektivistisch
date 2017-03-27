@@ -1,3 +1,59 @@
+:allow-uri-read:
+:show-link-uri:
+:orig: Mein custom attribute für Originalsprache/ Aussagen - HTML-Definition am Ende des Dokuments
+:stylesdir: ./
+:stylesheet: /home/dennis/owncloud_maw/Mag/kollektivistisch/compact.css
+
+//ifeval::["{lang}" == "de"]
+:appendix-caption: Anhang
+:caution-caption: Achtung
+:chapter-label: Kapitel
+:example-caption: Beispiel
+:figure-caption: Abbildung
+:important-caption: Wichtig
+:last-update-label: Zuletzt aktualisiert
+//:listing-caption: Listing
+:manname-title: BEZEICHNUNG
+:note-caption: Anmerkung
+//:preface-title: Vorwort
+:table-caption: Tabelle
+:tip-caption: Hinweis
+:toc-title: Inhalt
+:untitled-label: Ohne Titel
+:version-label: Version
+:warning-caption: Warnung
+//endif::[]
+//
+
+
+= Searle's Auffassung von Kollektivit&auml;t
+:doctype: book
+:preface-title: Documentation Preface
+:sectnums:
+:toc: right
+:toc-title: Inhaltsverzeichnis
+:toclevels: 5
+//:chapter-label: Kapitel
+:idprefix:
+:icons: font
+:revnumber: v1.1
+:revdate: {docdatetime}
+:date: {docdatetime}
+:author:
+:Email: 
+
+
+== Einleitung
+=== Methode
+* Bei jeder Aussage eine Verbindung zu einheitlichen Begriffen herstellen
+** Intentionalität
+** Überzeugung
+** Absicht
+** etc.
+* https://web6.codeprobe.de/wiki/index.php?title=Mag#Methode_im_Vordergrund[Formulierungen]
+
+* Datum: {docdatetime}
+
 == Outlining
 * Top-Down-strategy: Grobe Kapiteleinteilung vorgeben
 * -> Inhaltsverzeichnis
@@ -44,29 +100,47 @@ Argumentation A1
 // (äußerlich ununterscheidbar)
 * T2 - Gruppe A (Regenläufer) und Gruppe B (Balletttänzer) verhalten sich ununterscheidbar: Beide laufen konzentriert auf den Unterstand zu.
 * A2T2 - dennoch ist ein Unterschied vorhanden
-* Der innere Unterschied ist hingegen sehr deutlich. Jede Person der Gruppe A stellt seine Absicht ohne Bezugnahme auf die anderen Personen der Gruppe dar. ``Ich hatte die Absicht, den Regen zu vermeiden, indem ich zu dem Unterstand lief.'' Dies gilt auch, obwohl jede Person von den andere weiß, dass sie dieselbe Absicht hat. In diesem Fall liegt kein kollektives Verhalten vor.
+* Der innere Unterschied ist hingegen sehr deutlich. Jede Person der Gruppe A stellt seine ((Absicht)) ohne Bezugnahme auf die anderen Personen der Gruppe dar. ``Ich hatte die Absicht, den Regen zu vermeiden, indem ich zu dem Unterstand lief.'' Dies gilt auch, obwohl jede Person von den andere weiß, dass sie dieselbe Absicht hat. In diesem Fall liegt kein kollektives Verhalten vor.
 
+* (((einfach, zweifach, dreifach)))
 // begleitete Menge Argument
 *   
 
 
-a) Business School Gruppe
-Jedem Mitglied wird ein Teil zugeordnet. Der Teil ist definiert im Rahmen der _unsichtbaren-Hand-Theorie_. Es findet keine Absprache zwischen den Personen der Gruppe statt, lediglich entscheidet sich jeder für sich, mit niemanden zu kooperieren.
-
-b) Softballmannschaft
-Die Spieler der Softballmannschaft sprechen sich darin ab, beim Suchen jeder für sich zu handeln. Seinen Teil des Handelns ergibt sich aus der gemeinsamen Entscheidung beim Suchen nicht miteinander zu kooperieren.
 
 // Zweite Hälfte von These 1 handelt von der zunächst intuitiv nicht zugänglichen Behauptung, dass sich das Verhalten des Kollektivs nicht auf die Summe des Individual-Verhaltens reduzieren lässt.
 <Kein-äußerlicher-Rest-Argument*>
 Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalten und Verhalten einer Menge von Individuen, die nicht absichtlich gemeinsam eine koordiniertefootnote:[später?] Tätigkeit ausüben. Dennoch lässt sich durch die Intuition feststellen, dass es einen Unterschied gibt. Wenn
 ** Antithese: ``Summenthese''. ``Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.''footnote:[KI, S. 105f] (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)
-** ``Wir-Absichten lassen sich nicht reduzieren auf Ich-Absichten'' ist die lange Aussage von ``Wir-Absichten sind primitiv''.
-** Plausibelmachen der Definition durch anschauliches Beispiel, S. 104: Business-School-Argument.
-*** Auch wenn die Absicht wissentlich geteilt wird, fehlt zum Kooperieren die primitive Wir-Absicht.
-*** Im Gewissen Sinne ist ja die Ich-Absicht in solchen Fällen reduzierbar auf die Wir-Absicht. _Ich handel_, weil _wir handeln_. Das Handlungsverursachende ist in dem Fall die Entscheidung, sich dem gemeinsamen Handeln anzuschließen.
-**** Ist dies auch der Unterschied zwischen geteiltes Handeln und gemeinsames Handeln?
-***** Geteilt: ``alle haben die selbe Überzeugung''. Gemeinsam: Der Ursprung unseres synchronen Handelns ist nicht, dass wir wegen Zufalls die selbe Überzeugung und Absicht haben, kongruent sind, sondern weil die Überzeugung und Absicht jedes Individuums aus einem gemeinsamen `Bereich' gekommen. Dieser gemeinsame Bereich oder diese gemeinsame Entität ist die Wir-Absicht.
-*** ``ohne Bezug zu jemand anderen'' - ``unter den Mitgliedern gibt es eine wechselseitig geteilte Überzeugung''. Zunächst ließe sich das _schon_ als ein Bezug zueinander deuten, womit es sich oberflächlich widerspricht. Lässt es sich so lesen, dass die Überzeugung der Individuen vielmehr (strukturell) kongruent ist? Es gilt auf jeden Fall stark zu machen, dass es zumindest Searles Interesse so ausgelegt wird, dass zwar jeder um die geteilte Absicht der Absolventen weiß, diese Merkmalsgleichheit aber nicht relevant ist für die Leitung der eigenen Handlung, bzw. nicht handlungsverursachend ist!
+
+*A1*: 
+
+*A2*: ``Äußerlich betrachtet sind die beiden Fälle^Regen und corps de ballet^ ununterscheidbar, aber innerlich sind sie offensichtlich verschieden.''footnote:[S. 102]
+
+*A3*: Trotz des identischen Verhaltens kann im Falle des Regenbeispiels jedes Individuum seine Absicht ohne Bezugnahme auf die anderen ausgedrückt werden.footnote:[S. 103]
+
+*A4*: Die Summierung der individuellen Absichten führt nicht zur kollektiven Absicht.
+  .. Niemand kann ein Passspiel alleine durchführen. So muss schon der Werfer eine andere individuelle Absicht haben als der Fänger.
+  .. Die individuelle Absicht wird von der kollektiven Absicht abgeleitet.
+
+a. Business School Gruppe
+Jedem Mitglied wird ein Teil zugeordnet. Der Teil ist definiert im Rahmen der _unsichtbaren-Hand-Theorie_. Es findet keine Absprache zwischen den Personen der Gruppe statt, lediglich entscheidet sich jeder für sich, mit niemanden zu kooperieren.
+
+b. Softballmannschaft
+Die Spieler der Softballmannschaft sprechen sich darin ab, beim Suchen jeder für sich zu handeln. Seinen Teil des Handelns ergibt sich aus der gemeinsamen Entscheidung beim Suchen nicht miteinander zu kooperieren.
+  .. ``mit individuellen Mitteln ein kollektives Ziele verfolgen'' <<KollAbs>> (_Mittel_ ist schwammig.)
+  .. [orig]#Die Absprache ist wichtiger als das Verhalten selbst.# (worauf lässt sich begrifflich _Absprache_ und _Verhalten_ zurück führen?). Rückführung auf Intentionalität: Absprache ist der ursprüngliche Moment, auf dem sich die relevante Einstellung der Gruppenmitglieder. Das Verhalten ist jedoch auch auf die Absprache zurück zu führen. Ist für die Bestimmung von `kollektiv' aber nicht definierend. 
+  .. Die zweite Verwendung von `kooperieren' ist ein anderer Begriff - auf der _Handlungsebene_ nicht kooperieren, auf der _Meta-Ebene_, d.h. mentalen Ebene schon nicht kooperieren, auf der _Meta-Ebene_, d.h. mentalen Ebene schon.
+
+* *Analytisches Problem* ``seinen Teil tun''^Zitat von TuoMi^:  Die Interpretation von _seinen Teil tun_ führt zu einer zirkulären Rekursion.
+* *Inadäquatheit* Die Formulierung lässt eine nicht-kooperative Variante zulässt. D.h.Der Teil der gemäß der Adam-Smith-Theorie dem handelnden Subjekt zugeordnet wurde, erfordert was keine Involvierung der Abstimmung unter den Individuen.
+
+
+== Ziel: Wechselseitig geteilte Ueberzeugung ohne Kooperation ist kein Kollektiv
+Das Gegenteil von kooperativer Handlung der Gruppe ist: aufgrund von geteilten, d.h. identischer Intentionalität (Überzeugung, Absicht et al) das Gleiche tun.
+* Geteilte Überzeugung heißt... (kongruente Intentionalität unter den Individuen)
+
+
 
 *** Erwähnt Searle selbst eigentlich irgendwo, dass die Ableitung von der Wir- zur Ich-Absicht handlungsrelevant ist, i. S. v. handlungsverursachend oder handlungsleitend!?
 ** Searles Untersuchung laufe nicht auf eine _universelle Negation_ hinaus.footnote:["...dass keine solche Analyse jemals gelingen kann" KI, S. 105] Jede Analyse scheitere jedoch dadurch, dass es ihnen an einer hinreichende Bedingung für Kooperation fehle. Man könne den in der Analyse geforderten Bedingungen genügen, ohne kollektive Intentionalität zu haben. (Implikationen: Was heißt das?)
@@ -77,11 +151,19 @@ Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalte
 
 
 
+* Wiedergabe mit eigenen Worten:
 ****
 _Kollektive Intentionalität ist primitiv, weil dort etwas Neues hinzukommt, dass wesentlich die individuelle Intentionalität prägt. Wesentlich im Sinne von handlungsleitend._
-****
 
 *Ziel dieses Kapitels:* Wichtig ist die Urheberschaft des Teils zu identifizierenfootnote:[_seinen Teil tun_ (TuoMi)] 
+****
+** ``Wir-Absichten lassen sich nicht reduzieren auf Ich-Absichten'' ist die lange Aussage von ``Wir-Absichten sind primitiv''.
+** Plausibelmachen der Definition durch anschauliches Beispiel, S. 104: Business-School-Argument.
+*** Auch wenn die Absicht wissentlich geteilt wird, fehlt zum Kooperieren die primitive Wir-Absicht.
+*** Im Gewissen Sinne ist ja die Ich-Absicht in solchen Fällen reduzierbar auf die Wir-Absicht. _Ich handel_, weil _wir handeln_. Das Handlungsverursachende ist in dem Fall die Entscheidung, sich dem gemeinsamen Handeln anzuschließen.
+**** Ist dies auch der Unterschied zwischen geteiltes Handeln und gemeinsames Handeln?
+***** Geteilt: ``alle haben die selbe Überzeugung''. Gemeinsam: Der Ursprung unseres synchronen Handelns ist nicht, dass wir wegen Zufalls die selbe Überzeugung und Absicht haben, kongruent sind, sondern weil die Überzeugung und Absicht jedes Individuums aus einem gemeinsamen `Bereich' gekommen. Dieser gemeinsame Bereich oder diese gemeinsame Entität ist die Wir-Absicht.
+*** ``ohne Bezug zu jemand anderen'' - ``unter den Mitgliedern gibt es eine wechselseitig geteilte Überzeugung''. Zunächst ließe sich das _schon_ als ein Bezug zueinander deuten, womit es sich oberflächlich widerspricht. Lässt es sich so lesen, dass die Überzeugung der Individuen vielmehr (strukturell) kongruent ist? Es gilt auf jeden Fall stark zu machen, dass es zumindest Searles Interesse so ausgelegt wird, dass zwar jeder um die geteilte Absicht der Absolventen weiß, diese Merkmalsgleichheit aber nicht relevant ist für die Leitung der eigenen Handlung, bzw. nicht handlungsverursachend ist!
 
 
 === 2. Die Notation
@@ -101,3 +183,27 @@ _Kollektive Intentionalität ist primitiv, weil dort etwas Neues hinzukommt, das
 ** "Anthony Meijers and Margaret Gilbert suggest, for example, that while the relations identified by Bratman may be necessary to achieve collective intentionality, they are not sufficient. They argue, that collective intentionality entails a level of normativity that Bratman's account fails to capture. According to Meijers, to share an intention is to participate in an agreement that has normative implications. Meijers contends that, ``Such agreements bind the participants in various ways and are an explanatory factor in the subsequent collective action''".
 ** "Similarily, Gilbert claims that..."
 ** Bratman <--> Searle <--> Isaacs -> Meijers <--> Gilbert
+
+
+== Literatur
+[bibliography]
+- [[[KollAbs]]] John R. Searle: Kollektive Absichten und Handlungen. In: Kollektive Intentionalität. suhrkamp, S. 99-118
+- next one
+
+[index]
+== Index
+
+
+[appendix]
+== Appendix
+
+
+
+include::footer.adoc[]
+
+
+++++
+<style>
+  .orig {font-style: italic; color:green;}
+</style>
+++++
