@@ -3,8 +3,13 @@
 :myattr: hier
 :orig: Mein custom attribute für Originalsprache/ Aussagen
 
+:doctype: book
 
 
+[abstract]
+--
+In this paper we will ...
+--
 
 = Searle's Auffassung von Kollektivität
 

@@ -1,10 +1,33 @@
+:doctype: book
+:preface-title: Documentation Preface
+//:chapter-label: Kapitel
+:idprefix:
+:icons: font
+//:revnumber: v1.1
+:revdate: {docdatetime}
+:date: {docdatetime}
+:author:
+:Email: 
+
+ifndef::leveloffset[:leveloffset: 0]
 :allow-uri-read:
 :show-link-uri:
 :orig: Mein custom attribute für Originalsprache/ Aussagen - HTML-Definition am Ende des Dokuments
 :stylesdir: ./
-:stylesheet: /home/dennis/owncloud_maw/Mag/kollektivistisch/compact.css
+//:stylesheet: /home/dennis/owncloud_maw/Mag/kollektivistisch/compact.css
+:stylesheet: compact.css
+//asciidoc.css
 
-//ifeval::["{lang}" == "de"]
+ifndef::leveloffset[:leveloffset: 0]
+ifeval::[{leveloffset} == 0]
+Name <mail@mail.com>
+v1.0, 2015-11
+:revnumber: v1.2
+:toc: macro
+:icons: font
+endif::[]
+
+ifeval::["{lang}" == "de"]
 :appendix-caption: Anhang
 :caution-caption: Achtung
 :chapter-label: Kapitel
@@ -18,95 +41,102 @@
 //:preface-title: Vorwort
 :table-caption: Tabelle
 :tip-caption: Hinweis
-// nur für HTML!?
-//:toc-title: Inhalt
+:toc-title: Inhalt
 :untitled-label: Ohne Titel
 :version-label: Version
 :warning-caption: Warnung
-//endif::[]
+endif::[]
 //
 
 
-= Searle's Auffassung von Kollektivität
+= Searle's Auffassung von Kollektivit&auml;t
 :doctype: book
 :preface-title: Documentation Preface
 :sectnums:
 :toc: right
-
+:toc-title: Inhaltsverzeichnis
 :toclevels: 5
-//:chapter-label: Kapitel
-:idprefix:
-:icons: font
-:revnumber: v1.1
-:revdate: {docdatetime}
-:date: {docdatetime}
-:author:
-:Email: 
 
 
-[abstract]
---
-In diesem Artikel wird es gehen um...
-Kontrahenten sind...
---
 
+[preface]
 
-== Die Intuition
+== Einleitung
+=== Methode
+* Bei jeder Aussage eine Verbindung zu einheitlichen Begriffen herstellen
+** Intentionalität
+** Überzeugung
+** Absicht
+** etc.
+* https://web6.codeprobe.de/wiki/index.php?title=Mag#Methode_im_Vordergrund[Formulierungen]
+
+* Datum: {docdatetime}
+
+== Outlining
+* Top-Down-strategy: Grobe Kapiteleinteilung vorgeben
+* -> Inhaltsverzeichnis
+* Verfeinerung geschieht im Schreibprozess
+* ``Schreibe ganz natürlich, wie du schreibst, und verfeinere das Ergebnis danach.''
+* Hier ein komischer Pfeil!?
+* >
+* zwischen
+
+=== Los Gehts
+* Erwartungen/ Kontext
+** Nach Searles Dafürhalten werden lediglich kleine Modifikationen vorgenommen
+*** Welche sind das?
+** Nach SchmiSchweis Meinung ist es ein Bruch.
+*** Stelle! Bedeutung!
+
+== Die Kapitel
+* Pro Kapitel eine Botschaft
+* Leitfaden
+** Einleitung: Auf die Ausgangssituation gehen - es handelt sich um eine Replik auf TuoMi
+** These 1, 2 und 3
+** Bedingungen 1 und 2
+** Argumente _gegen_ Reduzibilität
+** kollektiv absichtliches Verhalten sei ein _primitives Phänomen_: Kooperation (A4?)
+** Begründung der Intuition
+*** Argumente A1 - A4b
+** Die Intuition ist...
+
+== Wortschatz
+* Begriffe einführen und unterbringen
+* Fähigkeit, Komponente, Absicht; mental, repräsentational, intentional
+* später: seinen Teil tun, Kooperation
+
+=== 1. Die Intuition
 // Die erste Hälfte von A1 ist ein Argument durch die Intuition, dass es einen Unterschied gibt zwischen absichtlich kollektivem Verhaltenfootnote:[Searle setzt es anders herum: kollektiv absichtliches Verhalten] und einer unkoordinierten Menge an Individuen. Wenn die Intuition stimmt, dass der Unterschied klar erlebbar ist, muss man sich fragen, 
+Der Ausgangspunkt von Searles Überlegungen bildet die Intuition, dass es kollektives absichtlich Verhalten gibt, dass sich unterscheidet von individuellem absichtlichen Verhalten. Dies sei bemerkbar bei allen Gruppenaktivitäten, beispielsweise ist die Musikaufführung eines Orchesters eine Aktivität, die sich charakteristisch daraus ergibt, dass ein stimmiges Musikstück aufgeführt wird - ganz im Gegensatz zu einer Menge von Individuen, die an einem Ort ein eigenes Musikstück für sich aufführen. Ebenso ist das Zusammenspiel einer Sportmannschaft intuitiv als ein absichtlich kollektiv abgestimmte Gruppenbewegung nachvollziehbar. Die Intuition, dass es absichtliches kollektives Verhalten gibt, wird noch stärker, wenn man selbst an einer Aktivität in der Gruppe teilnimmt. <Hervorheben: krasser Unterschied zu unkoordiniert und unkooperativ*>
 
-Der Ausgangspunkt von John Searles Überlegungen geht zurück auf die These, dass kollektive Absichten auf Mengen von individuellen Absichten reduzierbar ist. Die prominenteste Darstellung kommt von Tuomela und Millerfootnote:[1988], die wie folgt von Searle zusammen gefasst wirden kannfootnote:[_Genauer Prüfen: Lässt Searle wichtige Details unter den Tisch fallen?_]
+Ein Musikstück, dass nicht absichtlich kollektiv aufgeführt wird, klingt schief.
+Das Footballspiel ist kein Spiel im konventionellen/ konstitutivem Sinne, wenn jeder Spieler nur für sich dem Ball nachläuft.
+Wodurch wird nun ersichtlich, dass ein absichtlich kollektives Verhalten nicht durch die Einzelteile analysierbar ist?footnote:[also nicht reduzierbar]
+Argumentation A1
 
-****
-.Ein Akteur _A_, der Mitglied einer Gruppe ist, ``wir-beabsichtigt'', _X_ zu tun, wenn:
-. _A_ beabsichtigt, seinen Teil von _X_ zu tun.
-. _A_ davon überzeugt ist, dass die Voraussetzungen für den Erfolg gegeben sind; insbesondere ist er davon überzeugt, dass die anderen Gruppenmitglieder tatsächlich (oder wenigstens wahrscheinlich) ihre Teile von _X_ tun werden.
-. _A_ davon überzeugt ist, dass zwischen den Gruppenmitgliedern die wechselseitig geteilte Überzeugung darüber herrscht, dass die Voraussetzungen für den Erfolg, die in 2. erwähnt wurden, gegeben sind.footnote:[<<KollInt>>, S. 103]
-****
-
-Searle hat Einwände gegen diese Auffassung von Kollektivität, die durch eine intuitive Darstellung eingeleitet wird und im weiteren Verlauf mit Argumenten untermauert werden.
-
-
-.quote, Kollektive Intentionalität, John R. Searle
-****
-``Die Intuition besteht darin, dass es sich bei kollektivem absichtlichen Verhalten um ein primitives Phänomen handelt, das nicht bloß als Summe individuellen absichtlichen Verhaltens analysiert werden kann...'' footnote:[<<KollInt>>, S. 99]
-****
-
-Der Ausgangspunkt von John Searles Überlegungen bildet die Intuition, dass es kollektives absichtliches Verhalten gibt, das sich unterscheidet von individuellem absichtlichen Verhalten. Charakteristisch unterscheidet sich kollektives von individuellem Verhalten beispielsweise bei der Musikaufführung eines Orchesters. Auf der einen Seite können gut eingespielte Musiker, die sich gemeinsam entschließen ein erprobtes und bekanntes Stück aufzuführen, angenehm hörbare Musik machen*. Auf der anderen Seite können eben diese Musiker das selbe Musikstück aufführen, und - wie bei einer Aufführung üblich - nah beieinander stehen, und dennoch mit individuell absichtlichem Verhalten ganz schreckliche Musik produzieren. Nämlich dann, wenn sich jeder für sich dazu entschließt das Musikstück proben. Jeder hat zwar die Absicht, das gleich Stück am selben Ort zu spielen, dennoch wird der Unterschied verständlicherweise schnell hörbar sein. Ebenso ist das Zusammenspiel einer Sportmannschaft intuitiv als ein absichtlich kollektiv abgestimmte Gruppenbewegung nachvollziehbar, wenn sie nach den Regeln des Spiels Bewegunsabläufe verfolgen. Ein Sportler, der sich übt, einen Ballpass zu entegegen zu nehmen, sieht ähnlich ulkig* aus, wie ein Fußballspieler, der seine Bewegungsabläufe als Verteidiger ohne Gegner trainiert. Während diese Beispiele den Unterschied zwischen kollektiver und individueller Absichtfootnote:[stringenter zwischen Absicht und Verhalten differenzieren, dem Zusammenhang eigenes Kapitel widmen.*] deutlich macht, sollte aus intuitiver Sicht kein Zweifel mehr darin bestehen, wenn man selber bei einer Gruppenaktivität teilnimmt, in der es um Absprachen zwischen den Teilnehmern geht.
-
-In der zweiten Hälfte der Intuition geht Searle darauf ein, ob kollektives Verhalten, also das Verhalten einer Gruppe, mit dem Verhalten der darin befindlichen Individuen allein analysiert werden kann. 
-
-Wenn man jeden einzelnen einer Gruppe betrachtet, ihr Verhalten, Einstellungen und Absichten berücksichtigt, und dieses zusammenträgt - hat man dann alles erfasst, was das Kollektiv ausmacht? Searle gibt selbst zu bedenken, dass entsprechend der Primitivität des Kollektivs etwas übrig bleiben muss. Nur so rechtfertigt sich die These, dass die Absicht und das Verhalten des Kollektivs nicht erschöpfend durch die Absicht und das Verhalten des Individuums der Gruppe gegeben ist. Wenn es aber nichts oder niemanden übrig bleibt, wenn alle Individuen berücksichtigt wurden, worin besteht das Besondere des Kollektivs? Nun, nach dem Gedankengang Searles muss das Besondere in der mentale Qualität des Kollektivs liegen.
-
-.Rekonstruktion von Searle's These
-____
 * T1footnote:[eigene Benennung] - These: Kollektives Verhalten besteht nicht nur aus den Komponenten des individuellen Verhaltens. /...besteht auf etwas außerhalb von individuellem Verhalten.
 * A1T1: Es gibt außerhalb des Verhaltens von Gruppenmitgliedern niemanden, der sich verhalten könnte. /... der mit seinem Verhalten etwas dem kollektiven Verhalten beisteueren könnte. /... der mit seinem Verhalten für das kollektive Verhalten der Gruppe wesentlich ist.
 * S1A1T: Etwas Wesenliches für das kollektive Verhalten muss in der mentalen Komponente der Mitglieder liegen. Die mentale Komponente ist die kollektive Intentionalität.
-____
-
-****
-``Wenn also an kollektivem Verhalten irgendetwas besonderes ist, dann muss es an einem besonderen Merkmal der mentalen Komponente liegen, an der Form der Intentionalität.'' footnote:[<<KollInt>>, S. 100]
-****
-
-*****
-``I. These: Es gibt kollektives absichtliches Verhalten, das nicht dasselbe ist wie die Summierung individuellen absichtlichen Verhaltens.'' footnote:[<<KollInt>>, S. 100]
-*****
-
 
 // (äußerlich ununterscheidbar)
 * T2 - Gruppe A (Regenläufer) und Gruppe B (Balletttänzer) verhalten sich ununterscheidbar: Beide laufen konzentriert auf den Unterstand zu.
 * A2T2 - dennoch ist ein Unterschied vorhanden
 * Der innere Unterschied ist hingegen sehr deutlich. Jede Person der Gruppe A stellt seine ((Absicht)) ohne Bezugnahme auf die anderen Personen der Gruppe dar. ``Ich hatte die Absicht, den Regen zu vermeiden, indem ich zu dem Unterstand lief.'' Dies gilt auch, obwohl jede Person von den andere weiß, dass sie dieselbe Absicht hat. In diesem Fall liegt kein kollektives Verhalten vor.
 
+* (((einfach, zweifach, dreifach)))
+// begleitete Menge Argument
+*   
+
+
 
 // Zweite Hälfte von These 1 handelt von der zunächst intuitiv nicht zugänglichen Behauptung, dass sich das Verhalten des Kollektivs nicht auf die Summe des Individual-Verhaltens reduzieren lässt.
 <Kein-äußerlicher-Rest-Argument*>
 Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalten und Verhalten einer Menge von Individuen, die nicht absichtlich gemeinsam eine koordiniertefootnote:[später?] Tätigkeit ausüben. Dennoch lässt sich durch die Intuition feststellen, dass es einen Unterschied gibt. Wenn
-** Antithese: ``Summenthese''. ``Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.'' footnote:[KI, S. 105f] (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)
+** Antithese: ``Summenthese''. ``Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.''footnote:[KI, S. 105f] (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)
 
 *A1*: 
 
-*A2*: ``Äußerlich betrachtet sind die beiden Fälle^Regen und corps de ballet^ ununterscheidbar, aber innerlich sind sie offensichtlich verschieden.'' footnote:[S. 102]
+*A2*: ``Äußerlich betrachtet sind die beiden Fälle^Regen und corps de ballet^ ununterscheidbar, aber innerlich sind sie offensichtlich verschieden.''footnote:[S. 102]
 
 *A3*: Trotz des identischen Verhaltens kann im Falle des Regenbeispiels jedes Individuum seine Absicht ohne Bezugnahme auf die anderen ausgedrückt werden.footnote:[S. 103]
 
@@ -119,11 +149,11 @@ Jedem Mitglied wird ein Teil zugeordnet. Der Teil ist definiert im Rahmen der _u
 
 b. Softballmannschaft
 Die Spieler der Softballmannschaft sprechen sich darin ab, beim Suchen jeder für sich zu handeln. Seinen Teil des Handelns ergibt sich aus der gemeinsamen Entscheidung beim Suchen nicht miteinander zu kooperieren.
-  .. ``mit individuellen Mitteln ein kollektives Ziele verfolgen'' <<KollInt>> (_Mittel_ ist schwammig.)
+  .. ``mit individuellen Mitteln ein kollektives Ziele verfolgen'' <<KollAbs>> (_Mittel_ ist schwammig.)
   .. [orig]#Die Absprache ist wichtiger als das Verhalten selbst.# (worauf lässt sich begrifflich _Absprache_ und _Verhalten_ zurück führen?). Rückführung auf Intentionalität: Absprache ist der ursprüngliche Moment, auf dem sich die relevante Einstellung der Gruppenmitglieder. Das Verhalten ist jedoch auch auf die Absprache zurück zu führen. Ist für die Bestimmung von `kollektiv' aber nicht definierend. 
   .. Die zweite Verwendung von `kooperieren' ist ein anderer Begriff - auf der _Handlungsebene_ nicht kooperieren, auf der _Meta-Ebene_, d.h. mentalen Ebene schon nicht kooperieren, auf der _Meta-Ebene_, d.h. mentalen Ebene schon.
 
-* *Analytisches Problem* ``seinen Teil tun'' ^Zitat von TuoMi^:  Die Interpretation von _seinen Teil tun_ führt zu einer zirkulären Rekursion.
+* *Analytisches Problem* ``seinen Teil tun''^Zitat von TuoMi^:  Die Interpretation von _seinen Teil tun_ führt zu einer zirkulären Rekursion.
 * *Inadäquatheit* Die Formulierung lässt eine nicht-kooperative Variante zulässt. D.h.Der Teil der gemäß der Adam-Smith-Theorie dem handelnden Subjekt zugeordnet wurde, erfordert was keine Involvierung der Abstimmung unter den Individuen.
 
 
@@ -131,10 +161,7 @@ Die Spieler der Softballmannschaft sprechen sich darin ab, beim Suchen jeder fü
 Das Gegenteil von kooperativer Handlung der Gruppe ist: aufgrund von geteilten, d.h. identischer Intentionalität (Überzeugung, Absicht et al) das Gleiche tun.
 * Geteilte Überzeugung heißt... (kongruente Intentionalität unter den Individuen)
 
-**ERSTMAL SOWEIT BIS HIER. Hier drunter sind eigene Notizen.**
 
-
-<<<
 
 *** Erwähnt Searle selbst eigentlich irgendwo, dass die Ableitung von der Wir- zur Ich-Absicht handlungsrelevant ist, i. S. v. handlungsverursachend oder handlungsleitend!?
 ** Searles Untersuchung laufe nicht auf eine _universelle Negation_ hinaus.footnote:["...dass keine solche Analyse jemals gelingen kann" KI, S. 105] Jede Analyse scheitere jedoch dadurch, dass es ihnen an einer hinreichende Bedingung für Kooperation fehle. Man könne den in der Analyse geforderten Bedingungen genügen, ohne kollektive Intentionalität zu haben. (Implikationen: Was heißt das?)
@@ -145,7 +172,7 @@ Das Gegenteil von kooperativer Handlung der Gruppe ist: aufgrund von geteilten, 
 
 
 
-.Wiedergabe mit eigenen Worten
+* Wiedergabe mit eigenen Worten:
 ****
 _Kollektive Intentionalität ist primitiv, weil dort etwas Neues hinzukommt, dass wesentlich die individuelle Intentionalität prägt. Wesentlich im Sinne von handlungsleitend._
 
@@ -160,19 +187,43 @@ _Kollektive Intentionalität ist primitiv, weil dort etwas Neues hinzukommt, das
 *** ``ohne Bezug zu jemand anderen'' - ``unter den Mitgliedern gibt es eine wechselseitig geteilte Überzeugung''. Zunächst ließe sich das _schon_ als ein Bezug zueinander deuten, womit es sich oberflächlich widerspricht. Lässt es sich so lesen, dass die Überzeugung der Individuen vielmehr (strukturell) kongruent ist? Es gilt auf jeden Fall stark zu machen, dass es zumindest Searles Interesse so ausgelegt wird, dass zwar jeder um die geteilte Absicht der Absolventen weiß, diese Merkmalsgleichheit aber nicht relevant ist für die Leitung der eigenen Handlung, bzw. nicht handlungsverursachend ist!
 
 
+=== 2. Die Notation
 
+=== 3. Die Voraussetzung
+* 4. These
+
+
+=== Analyse
+* Untersuchungsperspektive: Teilnehmerperspektiv, Vollzugsperspektive
+* Mein Fokus liegt darauf, die Rolle der Intentionalität deutlich zu machen, nicht aber die des Verhaltens oder der hier prominenten Rolle der Bewegung
+
+=== Weiterfuehrendes
+* Aus Webb
+** Über _Bratman_: (Webb, S: 5) ``Whereas an individual intention is a state if mind, Bratman suggests that a collective or shared intention is a state of affairs that consists in individual intentions and the relations in which they stand.''
+** ``Isaacs maintains that the relations that exist among individual intentions are what account for the irreducibility of collective intentionality and are, thereby, what support that collective action is irreducibe''
+** ``Anthony Meijers and Margaret Gilbert suggest, for example, that while the relations identified by Bratman may be necessary to achieve collective intentionality, they are not sufficient. They argue, that collective intentionality entails a level of normativity that Bratman's account fails to capture. According to Meijers, to share an intention is to participate in an agreement that has normative implications. Meijers contends that, Such agreements bind the participants in various ways and are an explanatory factor in the subsequent collective action''.
+** ``Similarily, Gilbert claims that...''
+** Bratman <--> Searle <--> Isaacs -> Meijers <--> Gilbert
+
+
+== Literatur
 [bibliography]
-- [[[KollInt]]] John R. Searle: Kollektive Absichten und Handlungen. In: Kollektive Intentionalität. suhrkamp, S. 99-118
-
-
-
-[appendix]
-
-
-
-
+- [[[KollAbs]]] John R. Searle: Kollektive Absichten und Handlungen. In: Kollektive Intentionalität. suhrkamp, S. 99-118
+- next one
 
 [index]
+== Index-Titel
+
+[appendix]
+== Appendix-Titel
 
 
 
+include::footer.adoc[]
+
+
+++++
+<style>
+  .orig {font-style: italic; color:green;}
+</style>
+++++

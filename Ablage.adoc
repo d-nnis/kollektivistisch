@@ -9,8 +9,69 @@ Ablage - Internalistische Kollektivität
 
 
 
-=== Zitate und Ideen
+== Zitate und Ideen
 * Searle: Meines Erachtens waren die verschiedenen Formen des Behaviourismus und Funktionalismus niemals durch eine unabhängige Untersuchung der Fakten motiviert, sondern durch die Befürchtung, wir wären dem Dualismus und einem anscheinend unlösbaren Körper/ Geist-Problem ausgeliefert, solange sich kein Weg fände, geistige Phänomene (in ihrem naiven Verständnis) zu eliminieren.footnote:[Intentionalität, Suhrkamp, S. 11]
 ** Hier hat Schmid eine vergleichbaren Aspekt mit der Auffassung Searles: dass wir nicht diesem Körper-Geist-Problem ausgeliefert sind.footnote:[Plural Action, zw. S. 25 und 27] Wie sieht seine Lösung aus?
 * cartesianische gehirnwäsche und Geist
 * vererbte Probleme von der Phil des Geistes
+
+
+== Einleitung
+=== Methode
+* Bei jeder Aussage eine Verbindung zu einheitlichen Begriffen herstellen
+** Intentionalität
+** Überzeugung
+** Absicht
+** etc.
+* https://web6.codeprobe.de/wiki/index.php?title=Mag#Methode_im_Vordergrund[Formulierungen]
+
+* Datum: {docdatetime}
+
+== Outlining
+* Top-Down-strategy: Grobe Kapiteleinteilung vorgeben
+* -> Inhaltsverzeichnis
+* Verfeinerung geschieht im Schreibprozess
+* ``Schreibe ganz natürlich, wie du schreibst, und verfeinere das Ergebnis danach.''
+
+=== Los Gehts
+* Erwartungen/ Kontext
+** Nach Searles Dafürhalten werden lediglich kleine Modifikationen vorgenommen
+*** Welche sind das?
+** Nach SchmiSchweis Meinung ist es ein Bruch.
+*** Stelle! Bedeutung!
+
+== Die Kapitel
+* Pro Kapitel eine Botschaft
+* Leitfaden
+** Einleitung: Auf die Ausgangssituation gehen - es handelt sich um eine Replik auf TuoMi
+** These 1, 2 und 3
+** Bedingungen 1 und 2
+** Argumente _gegen_ Reduzibilität
+** kollektiv absichtliches Verhalten sei ein _primitives Phänomen_: Kooperation (A4?)
+** Begründung der Intuition
+*** Argumente A1 - A4b
+** Die Intuition ist...
+
+== Wortschatz
+* Begriffe einführen und unterbringen
+* Fähigkeit, Komponente, Absicht; mental, repräsentational, intentional
+* später: seinen Teil tun, Kooperation
+
+=== 2. Die Notation
+
+=== 3. Die Voraussetzung
+* 4. These
+
+
+=== Analyse
+* Untersuchungsperspektive: Teilnehmerperspektiv, Vollzugsperspektive
+* Mein Fokus liegt darauf, die Rolle der Intentionalität deutlich zu machen, nicht aber die des Verhaltens oder der hier prominenten Rolle der Bewegung
+
+=== Weiterfuehrendes
+* Aus Webb
+** Über _Bratman_: (Webb, S: 5) "Whereas an individual intention is a state if mind, Bratman suggests that a collective or shared intention is a state of affairs that consists in individual intentions and the relations in which they stand."
+** "Isaacs maintains that the relations that exist among individual intentions are what account for the irreducibility of collective intentionality and are, thereby, what support that collective action is irreducibe
+** "Anthony Meijers and Margaret Gilbert suggest, for example, that while the relations identified by Bratman may be necessary to achieve collective intentionality, they are not sufficient. They argue, that collective intentionality entails a level of normativity that Bratman's account fails to capture. According to Meijers, to share an intention is to participate in an agreement that has normative implications. Meijers contends that, ``Such agreements bind the participants in various ways and are an explanatory factor in the subsequent collective action''".
+** "Similarily, Gilbert claims that..."
+** Bratman <--> Searle <--> Isaacs -> Meijers <--> Gilbert
+

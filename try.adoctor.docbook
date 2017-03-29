@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc maxdepth="5"?>
+<?asciidoc-numbered?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Searle&#8217;s Auffassung von Kollektivitt</title>
+<date>2017-03-27 15:58:33 CEST</date>
+<author>
+<personname>
+</personname>
+<email></email>
+</author>
+<revhistory>
+<revision>
+<revnumber>v1.1</revnumber>
+<date>2017-03-27 15:58:33 CEST</date>
+</revision>
+</revhistory>
+</info>
+<chapter xml:id="einleitung">
+<title>Einleitung</title>
+<section xml:id="methode">
+<title>Methode</title>
+<itemizedlist>
+<listitem>
+<simpara>Bei jeder Aussage eine Verbindung zu einheitlichen Begriffen herstellen</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Intentionalität</simpara>
+</listitem>
+<listitem>
+<simpara>Überzeugung</simpara>
+</listitem>
+<listitem>
+<simpara>Absicht</simpara>
+</listitem>
+<listitem>
+<simpara>etc.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://web6.codeprobe.de/wiki/index.php?title=Mag#Methode_im_Vordergrund">Formulierungen</link></simpara>
+</listitem>
+<listitem>
+<simpara>Datum: 2017-03-27 15:58:33 CEST</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter xml:id="outlining">
+<title>Outlining</title>
+<itemizedlist>
+<listitem>
+<simpara>Top-Down-strategy: Grobe Kapiteleinteilung vorgeben</simpara>
+</listitem>
+<listitem>
+<simpara>&#8594; Inhaltsverzeichnis</simpara>
+</listitem>
+<listitem>
+<simpara>Verfeinerung geschieht im Schreibprozess</simpara>
+</listitem>
+<listitem>
+<simpara>``Schreibe ganz natürlich, wie du schreibst, und verfeinere das Ergebnis danach.''</simpara>
+</listitem>
+</itemizedlist>
+<section xml:id="los_gehts">
+<title>Los Gehts</title>
+<itemizedlist>
+<listitem>
+<simpara>Erwartungen/ Kontext</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Nach Searles Dafürhalten werden lediglich kleine Modifikationen vorgenommen</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Welche sind das?</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>Nach SchmiSchweis Meinung ist es ein Bruch.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Stelle! Bedeutung!</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter xml:id="die_kapitel">
+<title>Die Kapitel</title>
+<itemizedlist>
+<listitem>
+<simpara>Pro Kapitel eine Botschaft</simpara>
+</listitem>
+<listitem>
+<simpara>Leitfaden</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Einleitung: Auf die Ausgangssituation gehen - es handelt sich um eine Replik auf TuoMi</simpara>
+</listitem>
+<listitem>
+<simpara>These 1, 2 und 3</simpara>
+</listitem>
+<listitem>
+<simpara>Bedingungen 1 und 2</simpara>
+</listitem>
+<listitem>
+<simpara>Argumente <emphasis>gegen</emphasis> Reduzibilität</simpara>
+</listitem>
+<listitem>
+<simpara>kollektiv absichtliches Verhalten sei ein <emphasis>primitives Phänomen</emphasis>: Kooperation (A4?)</simpara>
+</listitem>
+<listitem>
+<simpara>Begründung der Intuition</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Argumente A1 - A4b</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>Die Intuition ist&#8230;&#8203;</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</chapter>
+<chapter xml:id="wortschatz">
+<title>Wortschatz</title>
+<itemizedlist>
+<listitem>
+<simpara>Begriffe einführen und unterbringen</simpara>
+</listitem>
+<listitem>
+<simpara>Fähigkeit, Komponente, Absicht; mental, repräsentational, intentional</simpara>
+</listitem>
+<listitem>
+<simpara>später: seinen Teil tun, Kooperation</simpara>
+</listitem>
+</itemizedlist>
+<section xml:id="1_die_intuition">
+<title>1. Die Intuition</title>
+<simpara>Der Ausgangspunkt von Searles Überlegungen bildet die Intuition, dass es kollektives absichtlich Verhalten gibt, dass sich unterscheidet von individuellem absichtlichen Verhalten. Dies sei bemerkbar bei allen Gruppenaktivitäten, beispielsweise ist die Musikaufführung eines Orchesters eine Aktivität, die sich charakteristisch daraus ergibt, dass ein stimmiges Musikstück aufgeführt wird - ganz im Gegensatz zu einer Menge von Individuen, die an einem Ort ein eigenes Musikstück für sich aufführen. Ebenso ist das Zusammenspiel einer Sportmannschaft intuitiv als ein absichtlich kollektiv abgestimmte Gruppenbewegung nachvollziehbar. Die Intuition, dass es absichtliches kollektives Verhalten gibt, wird noch stärker, wenn man selbst an einer Aktivität in der Gruppe teilnimmt. &lt;Hervorheben: krasser Unterschied zu unkoordiniert und unkooperativ*&gt;</simpara>
+<simpara>Ein Musikstück, dass nicht absichtlich kollektiv aufgeführt wird, klingt schief.
+Das Footballspiel ist kein Spiel im konventionellen/ konstitutivem Sinne, wenn jeder Spieler nur für sich dem Ball nachläuft.
+Wodurch wird nun ersichtlich, dass ein absichtlich kollektives Verhalten nicht durch die Einzelteile analysierbar ist?<footnote><simpara>also nicht reduzierbar</simpara></footnote>
+Argumentation A1</simpara>
+<itemizedlist>
+<listitem>
+<simpara>T1<footnote><simpara>eigene Benennung</simpara></footnote> - These: Kollektives Verhalten besteht nicht nur aus den Komponenten des individuellen Verhaltens. /&#8230;&#8203;besteht auf etwas außerhalb von individuellem Verhalten.</simpara>
+</listitem>
+<listitem>
+<simpara>A1T1: Es gibt außerhalb des Verhaltens von Gruppenmitgliedern niemanden, der sich verhalten könnte. /&#8230;&#8203; der mit seinem Verhalten etwas dem kollektiven Verhalten beisteueren könnte. /&#8230;&#8203; der mit seinem Verhalten für das kollektive Verhalten der Gruppe wesentlich ist.</simpara>
+</listitem>
+<listitem>
+<simpara>S1A1T: Etwas Wesenliches für das kollektive Verhalten muss in der mentalen Komponente der Mitglieder liegen. Die mentale Komponente ist die kollektive Intentionalität.</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist>
+<listitem>
+<simpara>T2 - Gruppe A (Regenläufer) und Gruppe B (Balletttänzer) verhalten sich ununterscheidbar: Beide laufen konzentriert auf den Unterstand zu.</simpara>
+</listitem>
+<listitem>
+<simpara>A2T2 - dennoch ist ein Unterschied vorhanden</simpara>
+</listitem>
+<listitem>
+<simpara>Der innere Unterschied ist hingegen sehr deutlich. Jede Person der Gruppe A stellt seine <indexterm><primary>Absicht</primary></indexterm>Absicht ohne Bezugnahme auf die anderen Personen der Gruppe dar. ``Ich hatte die Absicht, den Regen zu vermeiden, indem ich zu dem Unterstand lief.'' Dies gilt auch, obwohl jede Person von den andere weiß, dass sie dieselbe Absicht hat. In diesem Fall liegt kein kollektives Verhalten vor.</simpara>
+</listitem>
+<listitem>
+<simpara><indexterm>
+<primary>einfach</primary><secondary>zweifach</secondary><tertiary>dreifach</tertiary>
+</indexterm>
+<indexterm>
+<primary>zweifach</primary><secondary>dreifach</secondary>
+</indexterm>
+<indexterm>
+<primary>dreifach</primary>
+</indexterm>
+*</simpara>
+</listitem>
+</itemizedlist>
+<simpara>&lt;Kein-äußerlicher-Rest-Argument*&gt;
+Es gibt äußerlich keinen Unterschied zwischen absichtlich kollektivem Verhalten und Verhalten einer Menge von Individuen, die nicht absichtlich gemeinsam eine koordinierte<footnote><simpara>später?</simpara></footnote> Tätigkeit ausüben. Dennoch lässt sich durch die Intuition feststellen, dass es einen Unterschied gibt. Wenn
+** Antithese: <literal>Summenthese''. </literal>Wir-Absichten lassen sich nicht auf Ich-Absichten reduzieren, die durch Überzeugungen und Überzeugungen über wechselseitig geteilte Überzeugungen ergänzt werden.''<footnote><simpara>KI, S. 105f</simpara></footnote> (S.a. A2: Äußerlich-identisch-Argument und A3: begleitete-Mengen-Argument)</simpara>
+<simpara><emphasis role="strong">A1</emphasis>:</simpara>
+<simpara><emphasis role="strong">A2</emphasis>: ``Äußerlich betrachtet sind die beiden Fälle^Regen und corps de ballet^ ununterscheidbar, aber innerlich sind sie offensichtlich verschieden.''<footnote><simpara>S. 102</simpara></footnote></simpara>
+<simpara><emphasis role="strong">A3</emphasis>: Trotz des identischen Verhaltens kann im Falle des Regenbeispiels jedes Individuum seine Absicht ohne Bezugnahme auf die anderen ausgedrückt werden.<footnote><simpara>S. 103</simpara></footnote></simpara>
+<simpara><emphasis role="strong">A4</emphasis>: Die Summierung der individuellen Absichten führt nicht zur kollektiven Absicht.
+  .. Niemand kann ein Passspiel alleine durchführen. So muss schon der Werfer eine andere individuelle Absicht haben als der Fänger.
+  .. Die individuelle Absicht wird von der kollektiven Absicht abgeleitet.</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>Business School Gruppe
+Jedem Mitglied wird ein Teil zugeordnet. Der Teil ist definiert im Rahmen der <emphasis>unsichtbaren-Hand-Theorie</emphasis>. Es findet keine Absprache zwischen den Personen der Gruppe statt, lediglich entscheidet sich jeder für sich, mit niemanden zu kooperieren.</simpara>
+</listitem>
+<listitem>
+<simpara>Softballmannschaft
+Die Spieler der Softballmannschaft sprechen sich darin ab, beim Suchen jeder für sich zu handeln. Seinen Teil des Handelns ergibt sich aus der gemeinsamen Entscheidung beim Suchen nicht miteinander zu kooperieren.</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>``mit individuellen Mitteln ein kollektives Ziele verfolgen'' <xref linkend="KollAbs"/> (<emphasis>Mittel</emphasis> ist schwammig.)</simpara>
+</listitem>
+<listitem>
+<simpara><phrase role="orig">Die Absprache ist wichtiger als das Verhalten selbst.</phrase> (worauf lässt sich begrifflich <emphasis>Absprache</emphasis> und <emphasis>Verhalten</emphasis> zurück führen?). Rückführung auf Intentionalität: Absprache ist der ursprüngliche Moment, auf dem sich die relevante Einstellung der Gruppenmitglieder. Das Verhalten ist jedoch auch auf die Absprache zurück zu führen. Ist für die Bestimmung von `kollektiv' aber nicht definierend.</simpara>
+</listitem>
+<listitem>
+<simpara>Die zweite Verwendung von `kooperieren' ist ein anderer Begriff - auf der <emphasis>Handlungsebene</emphasis> nicht kooperieren, auf der <emphasis>Meta-Ebene</emphasis>, d.h. mentalen Ebene schon nicht kooperieren, auf der <emphasis>Meta-Ebene</emphasis>, d.h. mentalen Ebene schon.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Analytisches Problem</emphasis> ``seinen Teil tun''^Zitat von TuoMi^:  Die Interpretation von <emphasis>seinen Teil tun</emphasis> führt zu einer zirkulären Rekursion.</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Inadäquatheit</emphasis> Die Formulierung lässt eine nicht-kooperative Variante zulässt. D.h.Der Teil der gemäß der Adam-Smith-Theorie dem handelnden Subjekt zugeordnet wurde, erfordert was keine Involvierung der Abstimmung unter den Individuen.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</orderedlist>
+</listitem>
+</orderedlist>
+</section>
+</chapter>
+<chapter xml:id="ziel_wechselseitig_geteilte_ueberzeugung_ohne_kooperation_ist_kein_kollektiv">
+<title>Ziel: Wechselseitig geteilte Ueberzeugung ohne Kooperation ist kein Kollektiv</title>
+<simpara>Das Gegenteil von kooperativer Handlung der Gruppe ist: aufgrund von geteilten, d.h. identischer Intentionalität (Überzeugung, Absicht et al) das Gleiche tun.
+* Geteilte Überzeugung heißt&#8230;&#8203; (kongruente Intentionalität unter den Individuen)</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Erwähnt Searle selbst eigentlich irgendwo, dass die Ableitung von der Wir- zur Ich-Absicht handlungsrelevant ist, i. S. v. handlungsverursachend oder handlungsleitend!?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Searles Untersuchung laufe nicht auf eine <emphasis>universelle Negation</emphasis> hinaus.<footnote><simpara>"&#8230;&#8203;dass keine solche Analyse jemals gelingen kann" KI, S. 105</simpara></footnote> Jede Analyse scheitere jedoch dadurch, dass es ihnen an einer hinreichende Bedingung für Kooperation fehle. Man könne den in der Analyse geforderten Bedingungen genügen, ohne kollektive Intentionalität zu haben. (Implikationen: Was heißt das?)</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>Was sind die <literal>ähnlichen Gründe'', an denen </literal>die reduktive Analyse von kollektiver Intentionalität scheitern'' - also: ähnlich zu was?</simpara>
+</listitem>
+<listitem>
+<simpara>keine hinreichende Bedingung von Kooperation &#8592;&#8594; keine kollektive Intentionalität haben ?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Ist `handlungsverursachend' ein Begriff, der Schwierigkeiten mit sich bringt, i.S.v. geschichtsphilosophisch vererbte Probleme?</simpara>
+</listitem>
+<listitem>
+<simpara>Was ist das `HA' ab S. 109?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Wiedergabe mit eigenen Worten:</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<sidebar>
+<simpara><emphasis>Kollektive Intentionalität ist primitiv, weil dort etwas Neues hinzukommt, dass wesentlich die individuelle Intentionalität prägt. Wesentlich im Sinne von handlungsleitend.</emphasis></simpara>
+<simpara><emphasis role="strong">Ziel dieses Kapitels:</emphasis> Wichtig ist die Urheberschaft des Teils zu identifizieren<footnote><simpara><emphasis>seinen Teil tun</emphasis> (TuoMi)</simpara></footnote></simpara>
+</sidebar>
+<itemizedlist>
+<listitem>
+<simpara><literal>Wir-Absichten lassen sich nicht reduzieren auf Ich-Absichten'' ist die lange Aussage von </literal>Wir-Absichten sind primitiv''.</simpara>
+</listitem>
+<listitem>
+<simpara>Plausibelmachen der Definition durch anschauliches Beispiel, S. 104: Business-School-Argument.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Auch wenn die Absicht wissentlich geteilt wird, fehlt zum Kooperieren die primitive Wir-Absicht.</simpara>
+</listitem>
+<listitem>
+<simpara>Im Gewissen Sinne ist ja die Ich-Absicht in solchen Fällen reduzierbar auf die Wir-Absicht. <emphasis>Ich handel</emphasis>, weil <emphasis>wir handeln</emphasis>. Das Handlungsverursachende ist in dem Fall die Entscheidung, sich dem gemeinsamen Handeln anzuschließen.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Ist dies auch der Unterschied zwischen geteiltes Handeln und gemeinsames Handeln?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Geteilt: ``alle haben die selbe Überzeugung''. Gemeinsam: Der Ursprung unseres synchronen Handelns ist nicht, dass wir wegen Zufalls die selbe Überzeugung und Absicht haben, kongruent sind, sondern weil die Überzeugung und Absicht jedes Individuums aus einem gemeinsamen `Bereich' gekommen. Dieser gemeinsame Bereich oder diese gemeinsame Entität ist die Wir-Absicht.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara><literal>ohne Bezug zu jemand anderen'' - </literal>unter den Mitgliedern gibt es eine wechselseitig geteilte Überzeugung''. Zunächst ließe sich das <emphasis>schon</emphasis> als ein Bezug zueinander deuten, womit es sich oberflächlich widerspricht. Lässt es sich so lesen, dass die Überzeugung der Individuen vielmehr (strukturell) kongruent ist? Es gilt auf jeden Fall stark zu machen, dass es zumindest Searles Interesse so ausgelegt wird, dass zwar jeder um die geteilte Absicht der Absolventen weiß, diese Merkmalsgleichheit aber nicht relevant ist für die Leitung der eigenen Handlung, bzw. nicht handlungsverursachend ist!</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<section xml:id="2_die_notation">
+<title>2. Die Notation</title>
+
+</section>
+<section xml:id="3_die_voraussetzung">
+<title>3. Die Voraussetzung</title>
+<itemizedlist>
+<listitem>
+<simpara>4. These</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="analyse">
+<title>Analyse</title>
+<itemizedlist>
+<listitem>
+<simpara>Untersuchungsperspektive: Teilnehmerperspektiv, Vollzugsperspektive</simpara>
+</listitem>
+<listitem>
+<simpara>Mein Fokus liegt darauf, die Rolle der Intentionalität deutlich zu machen, nicht aber die des Verhaltens oder der hier prominenten Rolle der Bewegung</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="weiterfuehrendes">
+<title>Weiterfuehrendes</title>
+<itemizedlist>
+<listitem>
+<simpara>Aus Webb</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Über <emphasis>Bratman</emphasis>: (Webb, S: 5) "Whereas an individual intention is a state if mind, Bratman suggests that a collective or shared intention is a state of affairs that consists in individual intentions and the relations in which they stand."</simpara>
+</listitem>
+<listitem>
+<simpara>"Isaacs maintains that the relations that exist among individual intentions are what account for the irreducibility of collective intentionality and are, thereby, what support that collective action is irreducibe</simpara>
+</listitem>
+<listitem>
+<simpara>"Anthony Meijers and Margaret Gilbert suggest, for example, that while the relations identified by Bratman may be necessary to achieve collective intentionality, they are not sufficient. They argue, that collective intentionality entails a level of normativity that Bratman&#8217;s account fails to capture. According to Meijers, to share an intention is to participate in an agreement that has normative implications. Meijers contends that, ``Such agreements bind the participants in various ways and are an explanatory factor in the subsequent collective action''".</simpara>
+</listitem>
+<listitem>
+<simpara>"Similarily, Gilbert claims that&#8230;&#8203;"</simpara>
+</listitem>
+<listitem>
+<simpara>Bratman &#8592;&#8594; Searle &#8592;&#8594; Isaacs &#8594; Meijers &#8592;&#8594; Gilbert</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter xml:id="literatur">
+<title>Literatur</title>
+<bibliodiv>
+<bibliomixed>
+<bibliomisc><anchor xml:id="KollAbs" xreflabel="[KollAbs]"/>[KollAbs] John R. Searle: Kollektive Absichten und Handlungen. In: Kollektive Intentionalität. suhrkamp, S. 99-118</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>next one</bibliomisc>
+</bibliomixed>
+</bibliodiv>
+</chapter>
+<index xml:id="index">
+<title>Index</title>
+
+</index>
+<appendix xml:id="appendix">
+<title>Appendix</title>
+
+</appendix>
+<chapter xml:id="footer">
+<title>footer</title>
+<itemizedlist>
+<listitem>
+<simpara>Der letzte Teil, der inkludiert wird.</simpara>
+</listitem>
+</itemizedlist>
+<style>
+  .orig {font-style: italic; color:green;}
+</style>
+</chapter>
+</book>

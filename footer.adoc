@@ -4,3 +4,9 @@
 
 * Der letzte Teil, der inkludiert wird.
 
+//++++
+//<style>
+//  .orig {font-style: italic; color:green;}
+//</style>
+//++++
+
